@@ -11,7 +11,7 @@ No. 26/233 (staff report dated 4 August 2026; the Board concluded the consultati
 
 ## Run it
 
-[Open in Colab](https://colab.research.google.com/github/<YOUR_GITHUB_USER>/<YOUR_REPO>/blob/main/imf_llm_pipeline.ipynb)
+[Open in Colab](https://colab.research.google.com/github/Tahsan-Md/LLM-coding-Case-Study-and-Report/blob/main/imf_llm_pipeline.ipynb)
 
 1. Open the notebook with the link above and choose **Runtime → Run all**. No GPU and **no API key** are needed.
 2. The first cell clones this repository so the committed `cache/`, `outputs/` and `figures/` folders are available.
