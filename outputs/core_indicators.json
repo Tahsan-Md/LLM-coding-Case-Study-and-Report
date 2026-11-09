@@ -1,0 +1,9 @@
+{
+  "country_name": "Switzerland",
+  "gdp_growth_forecast_pct": 0.8,
+  "headline_inflation_rate_pct": 0.6,
+  "central_bank_policy_rate_pct": 0.0,
+  "non_performing_loan_ratio": 0.8,
+  "unemployment_rate_pct": 3.0,
+  "tier_1_capital_ratio": 20.2
+}

@@ -1,0 +1,166 @@
+{
+  "insights": {
+    "strengths": [
+      {
+        "item": "High productivity and strong policy frameworks",
+        "explanation": "Strong productivity and policy frameworks have sustained Swiss economic resilience amid global volatility.",
+        "evidence_quote": "Supported by high productivity and strong policy frameworks, the Swiss economy has been resilient.",
+        "page": 7,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "Substantial bank capital and liquidity buffers",
+        "explanation": "Banks held an aggregate Tier 1 regulatory capital ratio above 20 percent and LCR of 175 percent at end-2025.",
+        "evidence_quote": "Among banks, the aggregate Tier 1 regulatory capital ratio is above 20 percent and the liquidity coverage ratio (LCR) is at 175 percent at end-2025",
+        "page": 12,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "Low public debt anchor",
+        "explanation": "Public debt remains low at around 40 percent of GDP, providing strong fiscal buffers.",
+        "evidence_quote": "public debt, at around 40 percent of GDP, remains low.",
+        "page": 11,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "High value-added export sector resilience",
+        "explanation": "Export concentration in high-value added sectors reduces sensitivity to exchange rate volatility and external demand shifts.",
+        "evidence_quote": "Switzerland’s export sector is concentrated in high-value added sectors and is somewhat less sensitive than some countries to exchange rate volatility and trading partner demand",
+        "page": 13,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "Anchored long-term inflation expectations",
+        "explanation": "Long-term inflation expectations remained anchored around 1 percent, preserving price stability.",
+        "evidence_quote": "while long-term inflation expectations remain anchored at around 1 percent.",
+        "page": 10,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "Robust external current account surplus",
+        "explanation": "Switzerland's external position is supported by a current account surplus of 6.4 percent of GDP in 2025.",
+        "evidence_quote": "The current account surplus stood at 6.4 percent of GDP in 2025.",
+        "page": 13,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      }
+    ],
+    "vulnerabilities": [
+      {
+        "item": "Systemic risk from mortgage and real estate markets",
+        "explanation": "Apartment prices are 15–40 percent overvalued while mortgage growth reached 3.1 percent in 2025, elevating credit risks.",
+        "evidence_quote": "With systemic risk from mortgages continuing to rise, macroprudential oversight and toolkit improvements remain important.",
+        "page": 7,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "Long-term fiscal burdens from aging and climate",
+        "explanation": "Pension, health, and climate expenditures could increase public debt by over 56 percent of GDP by 2060.",
+        "evidence_quote": "rising spending on pensions and health care along with climate mitigation costs could increase public debt by more than 56 percent of GDP by 2060.",
+        "page": 17,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "Systemic Too-Big-to-Fail risks from G-SIB",
+        "explanation": "The immense scale of the single merged G-SIB creates systemic vulnerabilities requiring enhanced capital and oversight.",
+        "evidence_quote": "Although the merger is almost complete, implementation risks remain until the merger is complete. The large size of the bank poses risks.",
+        "page": 59,
+        "quote_verified": true,
+        "quote_match_ratio": 0.876
+      },
+      {
+        "item": "Limited monetary policy space at zero interest rate",
+        "explanation": "Setting the policy rate at zero since June 2025 constrains SNB flexibility to absorb severe disinflationary external shocks.",
+        "evidence_quote": "But more than a year after the policy rate was lowered to zero, limiting monetary policy flexibility, responding to frequent external shocks is challenging.",
+        "page": 10,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "External trade protectionism and geopolitical downside risks",
+        "explanation": "Assumed US tariffs of 12.5 percent and persistent global trade fragmentation threaten Switzerland's export-driven economic model.",
+        "evidence_quote": "External risks dominate and leave the balance of risks firmly on the downside.",
+        "page": 7,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      },
+      {
+        "item": "Labor supply shortages and skill mismatches",
+        "explanation": "Demographic aging and technological changes cause labor shortages, particularly in high-skilled occupations and construction.",
+        "evidence_quote": "Aging and skill mismatches are tightening labor supply, particularly in high‑skill occupations and construction.",
+        "page": 27,
+        "quote_verified": true,
+        "quote_match_ratio": 1.0
+      }
+    ]
+  },
+  "judge": {
+    "claims": [
+      {
+        "claim": "Banks held an aggregate Tier 1 regulatory capital ratio above 20 percent and LCR of 175 percent at end-2025.",
+        "verdict": "supported",
+        "evidence": "the aggregate Tier 1 regulatory capital ratio is above 20 percent and the liquidity coverage ratio (LCR) is at 175 percent at end-2025"
+      },
+      {
+        "claim": "Public debt is around 40 percent of GDP.",
+        "verdict": "supported",
+        "evidence": "public debt, at around 40 percent of GDP, remains low."
+      },
+      {
+        "claim": "The current account surplus was 6.4 percent of GDP in 2025.",
+        "verdict": "supported",
+        "evidence": "The current account surplus stood at 6.4 percent of GDP in 2025."
+      },
+      {
+        "claim": "Long-term inflation expectations remain anchored around 1 percent.",
+        "verdict": "supported",
+        "evidence": "while long-term inflation expectations remain anchored at around 1 percent."
+      },
+      {
+        "claim": "Apartment prices are estimated at 15–40 percent above fundamental levels.",
+        "verdict": "supported",
+        "evidence": "Apartment prices are estimated at 15–40 percent above fundamental levels"
+      },
+      {
+        "claim": "Mortgage growth was 3.1 percent in 2025.",
+        "verdict": "supported",
+        "evidence": "Low interest rates supported mortgage growth of 3.1 percent in 2025"
+      },
+      {
+        "claim": "Pensions, health care, and climate costs could increase public debt by more than 56 percent of GDP by 2060.",
+        "verdict": "supported",
+        "evidence": "rising spending on pensions and health care along with climate mitigation costs could increase public debt by more than 56 percent of GDP by 2060."
+      },
+      {
+        "claim": "The policy rate has been set at zero since June 2025.",
+        "verdict": "supported",
+        "evidence": "The SNB has kept its policy rate at zero since June 2025"
+      },
+      {
+        "claim": "Baseline projections assume US tariffs on Switzerland are set at 12.5 percent.",
+        "verdict": "supported",
+        "evidence": "US tariffs on Switzerland are assumed to be set at 12.5 percent."
+      },
+      {
+        "claim": "Labor supply is tightening, particularly in high-skill occupations and construction.",
+        "verdict": "supported",
+        "evidence": "Aging and skill mismatches are tightening labor supply, particularly in high‑skill occupations and construction."
+      }
+    ],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "constraint_adherence": 5,
+    "overall": 5,
+    "major_issues": []
+  },
+  "quote_verification_rate": 1.0,
+  "attempts": 1
+}

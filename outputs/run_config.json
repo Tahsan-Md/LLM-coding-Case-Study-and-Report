@@ -1,0 +1,6 @@
+{
+  "GEN_MODEL": "gemini-3.5-flash",
+  "JUDGE_MODEL": "gemini-3.8-flash",
+  "TEMPERATURE": 0.0,
+  "SEED": 42
+}

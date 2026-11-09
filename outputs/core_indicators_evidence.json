@@ -1,0 +1,209 @@
+{
+  "evidence": {
+    "gdp_growth_forecast_pct": {
+      "page": 2,
+      "quote": "Growth (adjusted for sporting events) is expected to moderate to 0.8 percent (1.1 percent without adjustments) in 2026",
+      "reference_period": "2026",
+      "alternatives_seen": [
+        "1.1 percent (without adjustments)"
+      ],
+      "not_found_reason": null
+    },
+    "headline_inflation_rate_pct": {
+      "page": 3,
+      "quote": "Inflation is projected to pick up to 0.6 percent in 2026, driven by higher global inflation and energy prices",
+      "reference_period": "2026",
+      "alternatives_seen": [],
+      "not_found_reason": null
+    },
+    "central_bank_policy_rate_pct": {
+      "page": 11,
+      "quote": "The policy rate has been set at zero since June 2025, well below levels in the US and euro area.",
+      "reference_period": "2026",
+      "alternatives_seen": [],
+      "not_found_reason": null
+    },
+    "non_performing_loan_ratio": {
+      "page": 45,
+      "quote": "Non-performing loans as percent of gross loans 0.7 0.6 0.7 0.6 0.8 0.7 0.7 0.8 0.8 0.8",
+      "reference_period": "2025",
+      "alternatives_seen": [],
+      "not_found_reason": null
+    },
+    "unemployment_rate_pct": {
+      "page": 11,
+      "quote": "The labor market is showing signs of modest weakening, with unemployment rising to 3.0 percent, and employment growth slowing to 0.2 percent yoy in 2026:Q1.",
+      "reference_period": "2026:Q1",
+      "alternatives_seen": [],
+      "not_found_reason": null
+    },
+    "tier_1_capital_ratio": {
+      "page": 44,
+      "quote": "Regulatory Tier I capital as percent of risk-weighted assets 1/ 2/ 15.7 18.2 18.3 19.0 19.3 19.1 19.4 19.3 19.0 20.2",
+      "reference_period": "2025",
+      "alternatives_seen": [],
+      "not_found_reason": null
+    }
+  },
+  "retrieval_diagnostics": {
+    "gdp_growth_forecast_pct": [
+      [
+        1,
+        2,
+        3,
+        0.6462
+      ],
+      [
+        33,
+        15,
+        16,
+        0.6284
+      ],
+      [
+        0,
+        2,
+        2,
+        0.5836
+      ],
+      [
+        76,
+        43,
+        44,
+        0.5727
+      ]
+    ],
+    "headline_inflation_rate_pct": [
+      [
+        24,
+        10,
+        11,
+        0.6761
+      ],
+      [
+        1,
+        2,
+        3,
+        0.6523
+      ],
+      [
+        33,
+        15,
+        16,
+        0.5997
+      ],
+      [
+        30,
+        14,
+        14,
+        0.5855
+      ]
+    ],
+    "central_bank_policy_rate_pct": [
+      [
+        44,
+        20,
+        21,
+        0.5819
+      ],
+      [
+        187,
+        97,
+        97,
+        0.5651
+      ],
+      [
+        25,
+        11,
+        12,
+        0.5556
+      ],
+      [
+        43,
+        20,
+        20,
+        0.5449
+      ]
+    ],
+    "non_performing_loan_ratio": [
+      [
+        82,
+        44,
+        45,
+        0.5064
+      ],
+      [
+        83,
+        45,
+        45,
+        0.4588
+      ],
+      [
+        26,
+        12,
+        12,
+        0.4521
+      ],
+      [
+        169,
+        88,
+        88,
+        0.4481
+      ]
+    ],
+    "unemployment_rate_pct": [
+      [
+        24,
+        10,
+        11,
+        0.5298
+      ],
+      [
+        9,
+        6,
+        6,
+        0.5117
+      ],
+      [
+        23,
+        10,
+        10,
+        0.5097
+      ],
+      [
+        125,
+        64,
+        65,
+        0.437
+      ]
+    ],
+    "tier_1_capital_ratio": [
+      [
+        82,
+        44,
+        45,
+        0.5356
+      ],
+      [
+        5,
+        4,
+        5,
+        0.5013
+      ],
+      [
+        85,
+        45,
+        46,
+        0.4632
+      ],
+      [
+        113,
+        58,
+        59,
+        0.4187
+      ]
+    ]
+  },
+  "fallback_log": [],
+  "attempts": 1,
+  "validator_errors": []
+}

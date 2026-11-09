@@ -1,0 +1,1538 @@
+{
+  "method": "chunk-level multi-label counts",
+  "n_chunks": 204,
+  "table": [
+    {
+      "theme": "Inflation & Prices",
+      "llm_chunks": 47,
+      "llm_primary_chunks": 27,
+      "keyword_chunks": 67,
+      "keyword_mentions": 231,
+      "llm_share_pct": 16.49122807017544,
+      "keyword_share_pct": 15.296803652968036,
+      "rank_llm": 4,
+      "rank_keyword": 4
+    },
+    {
+      "theme": "Interest Rates & Credit",
+      "llm_chunks": 50,
+      "llm_primary_chunks": 20,
+      "keyword_chunks": 81,
+      "keyword_mentions": 247,
+      "llm_share_pct": 17.54385964912281,
+      "keyword_share_pct": 18.493150684931507,
+      "rank_llm": 2,
+      "rank_keyword": 2
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "llm_chunks": 26,
+      "llm_primary_chunks": 3,
+      "keyword_chunks": 42,
+      "keyword_mentions": 97,
+      "llm_share_pct": 9.12280701754386,
+      "keyword_share_pct": 9.58904109589041,
+      "rank_llm": 6,
+      "rank_keyword": 6
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "llm_chunks": 29,
+      "llm_primary_chunks": 7,
+      "keyword_chunks": 90,
+      "keyword_mentions": 305,
+      "llm_share_pct": 10.175438596491228,
+      "keyword_share_pct": 20.54794520547945,
+      "rank_llm": 5,
+      "rank_keyword": 1
+    },
+    {
+      "theme": "Sovereign Debt",
+      "llm_chunks": 70,
+      "llm_primary_chunks": 49,
+      "keyword_chunks": 71,
+      "keyword_mentions": 212,
+      "llm_share_pct": 24.56140350877193,
+      "keyword_share_pct": 16.210045662100455,
+      "rank_llm": 1,
+      "rank_keyword": 3
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "llm_chunks": 15,
+      "llm_primary_chunks": 7,
+      "keyword_chunks": 31,
+      "keyword_mentions": 76,
+      "llm_share_pct": 5.2631578947368425,
+      "keyword_share_pct": 7.077625570776256,
+      "rank_llm": 7,
+      "rank_keyword": 7
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "llm_chunks": 48,
+      "llm_primary_chunks": 33,
+      "keyword_chunks": 56,
+      "keyword_mentions": 175,
+      "llm_share_pct": 16.842105263157894,
+      "keyword_share_pct": 12.785388127853881,
+      "rank_llm": 3,
+      "rank_keyword": 5
+    }
+  ],
+  "spearman_llm_vs_keyword": 0.5714285714285714,
+  "exact_labelset_agreement": 0.30392156862745096,
+  "per_chunk_labels": {
+    "0": {
+      "chunk_id": 0,
+      "themes": [
+        "Inflation & Prices",
+        "Sovereign Debt",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "1": {
+      "chunk_id": 1,
+      "themes": [
+        "Inflation & Prices"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "2": {
+      "chunk_id": 2,
+      "themes": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "3": {
+      "chunk_id": 3,
+      "themes": [
+        "Sovereign Debt",
+        "Inflation & Prices"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "4": {
+      "chunk_id": 4,
+      "themes": [
+        "Interest Rates & Credit",
+        "Inflation & Prices"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "5": {
+      "chunk_id": 5,
+      "themes": [
+        "Systemic Financial Risk",
+        "Banking Capital & Liquidity",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "6": {
+      "chunk_id": 6,
+      "themes": [
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Labor Market Dynamics"
+    },
+    "7": {
+      "chunk_id": 7,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "8": {
+      "chunk_id": 8,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "9": {
+      "chunk_id": 9,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "10": {
+      "chunk_id": 10,
+      "themes": [
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "11": {
+      "chunk_id": 11,
+      "themes": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "12": {
+      "chunk_id": 12,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Housing & Real Estate",
+        "Sovereign Debt",
+        "Labor Market Dynamics",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "13": {
+      "chunk_id": 13,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "14": {
+      "chunk_id": 14,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "15": {
+      "chunk_id": 15,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "16": {
+      "chunk_id": 16,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "17": {
+      "chunk_id": 17,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "18": {
+      "chunk_id": 18,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "19": {
+      "chunk_id": 19,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "20": {
+      "chunk_id": 20,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "21": {
+      "chunk_id": 21,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Housing & Real Estate",
+        "Sovereign Debt",
+        "Labor Market Dynamics",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "22": {
+      "chunk_id": 22,
+      "themes": [
+        "Sovereign Debt",
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Labor Market Dynamics"
+    },
+    "23": {
+      "chunk_id": 23,
+      "themes": [
+        "Inflation & Prices",
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "24": {
+      "chunk_id": 24,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "25": {
+      "chunk_id": 25,
+      "themes": [
+        "Interest Rates & Credit",
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "26": {
+      "chunk_id": 26,
+      "themes": [
+        "Interest Rates & Credit",
+        "Housing & Real Estate",
+        "Banking Capital & Liquidity"
+      ],
+      "primary_theme": "Banking Capital & Liquidity"
+    },
+    "27": {
+      "chunk_id": 27,
+      "themes": [
+        "Housing & Real Estate",
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Banking Capital & Liquidity"
+    },
+    "28": {
+      "chunk_id": 28,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "29": {
+      "chunk_id": 29,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "30": {
+      "chunk_id": 30,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "31": {
+      "chunk_id": 31,
+      "themes": [
+        "Inflation & Prices"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "32": {
+      "chunk_id": 32,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "33": {
+      "chunk_id": 33,
+      "themes": [
+        "Inflation & Prices"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "34": {
+      "chunk_id": 34,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "35": {
+      "chunk_id": 35,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "36": {
+      "chunk_id": 36,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "37": {
+      "chunk_id": 37,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "38": {
+      "chunk_id": 38,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "39": {
+      "chunk_id": 39,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "40": {
+      "chunk_id": 40,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "41": {
+      "chunk_id": 41,
+      "themes": [
+        "Sovereign Debt",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "42": {
+      "chunk_id": 42,
+      "themes": [
+        "Sovereign Debt",
+        "Housing & Real Estate",
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "43": {
+      "chunk_id": 43,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "44": {
+      "chunk_id": 44,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "45": {
+      "chunk_id": 45,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "46": {
+      "chunk_id": 46,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "47": {
+      "chunk_id": 47,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "48": {
+      "chunk_id": 48,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "49": {
+      "chunk_id": 49,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "50": {
+      "chunk_id": 50,
+      "themes": [
+        "Housing & Real Estate",
+        "Systemic Financial Risk",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Housing & Real Estate"
+    },
+    "51": {
+      "chunk_id": 51,
+      "themes": [
+        "Systemic Financial Risk",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "52": {
+      "chunk_id": 52,
+      "themes": [
+        "Systemic Financial Risk",
+        "Banking Capital & Liquidity",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "53": {
+      "chunk_id": 53,
+      "themes": [
+        "Systemic Financial Risk",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "54": {
+      "chunk_id": 54,
+      "themes": [
+        "Systemic Financial Risk",
+        "Banking Capital & Liquidity"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "55": {
+      "chunk_id": 55,
+      "themes": [
+        "Systemic Financial Risk",
+        "Banking Capital & Liquidity"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "56": {
+      "chunk_id": 56,
+      "themes": [
+        "Systemic Financial Risk",
+        "Banking Capital & Liquidity",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "57": {
+      "chunk_id": 57,
+      "themes": [
+        "Systemic Financial Risk",
+        "Sovereign Debt",
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Labor Market Dynamics"
+    },
+    "58": {
+      "chunk_id": 58,
+      "themes": [
+        "Sovereign Debt",
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "59": {
+      "chunk_id": 59,
+      "themes": [
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Labor Market Dynamics"
+    },
+    "60": {
+      "chunk_id": 60,
+      "themes": [
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Labor Market Dynamics"
+    },
+    "61": {
+      "chunk_id": 61,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "62": {
+      "chunk_id": 62,
+      "themes": [
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Labor Market Dynamics"
+    },
+    "63": {
+      "chunk_id": 63,
+      "themes": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "64": {
+      "chunk_id": 64,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "65": {
+      "chunk_id": 65,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Banking Capital & Liquidity",
+        "Housing & Real Estate",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "66": {
+      "chunk_id": 66,
+      "themes": [
+        "Housing & Real Estate",
+        "Sovereign Debt",
+        "Labor Market Dynamics",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "67": {
+      "chunk_id": 67,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "68": {
+      "chunk_id": 68,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "69": {
+      "chunk_id": 69,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "70": {
+      "chunk_id": 70,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "71": {
+      "chunk_id": 71,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "72": {
+      "chunk_id": 72,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "73": {
+      "chunk_id": 73,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "74": {
+      "chunk_id": 74,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "75": {
+      "chunk_id": 75,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "76": {
+      "chunk_id": 76,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "77": {
+      "chunk_id": 77,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "78": {
+      "chunk_id": 78,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "79": {
+      "chunk_id": 79,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "80": {
+      "chunk_id": 80,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "81": {
+      "chunk_id": 81,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "82": {
+      "chunk_id": 82,
+      "themes": [
+        "Banking Capital & Liquidity"
+      ],
+      "primary_theme": "Banking Capital & Liquidity"
+    },
+    "83": {
+      "chunk_id": 83,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Banking Capital & Liquidity"
+    },
+    "84": {
+      "chunk_id": 84,
+      "themes": [
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "85": {
+      "chunk_id": 85,
+      "themes": [
+        "Systemic Financial Risk",
+        "Banking Capital & Liquidity",
+        "Housing & Real Estate",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "86": {
+      "chunk_id": 86,
+      "themes": [
+        "Systemic Financial Risk",
+        "Housing & Real Estate",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "87": {
+      "chunk_id": 87,
+      "themes": [
+        "Systemic Financial Risk",
+        "Housing & Real Estate",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Housing & Real Estate"
+    },
+    "88": {
+      "chunk_id": 88,
+      "themes": [
+        "Interest Rates & Credit",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "89": {
+      "chunk_id": 89,
+      "themes": [
+        "Interest Rates & Credit",
+        "Systemic Financial Risk",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "90": {
+      "chunk_id": 90,
+      "themes": [
+        "Interest Rates & Credit",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "91": {
+      "chunk_id": 91,
+      "themes": [
+        "Interest Rates & Credit",
+        "Housing & Real Estate"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "92": {
+      "chunk_id": 92,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "93": {
+      "chunk_id": 93,
+      "themes": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "94": {
+      "chunk_id": 94,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "95": {
+      "chunk_id": 95,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "96": {
+      "chunk_id": 96,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "97": {
+      "chunk_id": 97,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "98": {
+      "chunk_id": 98,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "99": {
+      "chunk_id": 99,
+      "themes": [
+        "Inflation & Prices"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "100": {
+      "chunk_id": 100,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "101": {
+      "chunk_id": 101,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "102": {
+      "chunk_id": 102,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "103": {
+      "chunk_id": 103,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "104": {
+      "chunk_id": 104,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "105": {
+      "chunk_id": 105,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "106": {
+      "chunk_id": 106,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "107": {
+      "chunk_id": 107,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "108": {
+      "chunk_id": 108,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "109": {
+      "chunk_id": 109,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "110": {
+      "chunk_id": 110,
+      "themes": [
+        "Sovereign Debt",
+        "Systemic Financial Risk",
+        "Interest Rates & Credit",
+        "Banking Capital & Liquidity"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "111": {
+      "chunk_id": 111,
+      "themes": [
+        "Systemic Financial Risk",
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "112": {
+      "chunk_id": 112,
+      "themes": [
+        "Inflation & Prices",
+        "Housing & Real Estate",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "113": {
+      "chunk_id": 113,
+      "themes": [
+        "Housing & Real Estate",
+        "Systemic Financial Risk",
+        "Banking Capital & Liquidity",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "114": {
+      "chunk_id": 114,
+      "themes": [
+        "Sovereign Debt",
+        "Labor Market Dynamics"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "115": {
+      "chunk_id": 115,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "116": {
+      "chunk_id": 116,
+      "themes": [
+        "Inflation & Prices",
+        "Sovereign Debt",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "117": {
+      "chunk_id": 117,
+      "themes": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "118": {
+      "chunk_id": 118,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "119": {
+      "chunk_id": 119,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "120": {
+      "chunk_id": 120,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Banking Capital & Liquidity"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "121": {
+      "chunk_id": 121,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "122": {
+      "chunk_id": 122,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "123": {
+      "chunk_id": 123,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "124": {
+      "chunk_id": 124,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "125": {
+      "chunk_id": 125,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "126": {
+      "chunk_id": 126,
+      "themes": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "127": {
+      "chunk_id": 127,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "128": {
+      "chunk_id": 128,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "129": {
+      "chunk_id": 129,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "130": {
+      "chunk_id": 130,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "131": {
+      "chunk_id": 131,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "132": {
+      "chunk_id": 132,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "133": {
+      "chunk_id": 133,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "134": {
+      "chunk_id": 134,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "135": {
+      "chunk_id": 135,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "136": {
+      "chunk_id": 136,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "137": {
+      "chunk_id": 137,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "138": {
+      "chunk_id": 138,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "139": {
+      "chunk_id": 139,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "140": {
+      "chunk_id": 140,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "141": {
+      "chunk_id": 141,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "142": {
+      "chunk_id": 142,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "143": {
+      "chunk_id": 143,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "144": {
+      "chunk_id": 144,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "145": {
+      "chunk_id": 145,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "146": {
+      "chunk_id": 146,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "147": {
+      "chunk_id": 147,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "148": {
+      "chunk_id": 148,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "149": {
+      "chunk_id": 149,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "150": {
+      "chunk_id": 150,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "151": {
+      "chunk_id": 151,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "152": {
+      "chunk_id": 152,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "153": {
+      "chunk_id": 153,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "154": {
+      "chunk_id": 154,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "155": {
+      "chunk_id": 155,
+      "themes": [
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "156": {
+      "chunk_id": 156,
+      "themes": [
+        "Banking Capital & Liquidity"
+      ],
+      "primary_theme": "Banking Capital & Liquidity"
+    },
+    "157": {
+      "chunk_id": 157,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "158": {
+      "chunk_id": 158,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "159": {
+      "chunk_id": 159,
+      "themes": [
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "160": {
+      "chunk_id": 160,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "161": {
+      "chunk_id": 161,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "162": {
+      "chunk_id": 162,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "163": {
+      "chunk_id": 163,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "164": {
+      "chunk_id": 164,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "165": {
+      "chunk_id": 165,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "166": {
+      "chunk_id": 166,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Housing & Real Estate",
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "167": {
+      "chunk_id": 167,
+      "themes": [
+        "Inflation & Prices"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "168": {
+      "chunk_id": 168,
+      "themes": [
+        "Interest Rates & Credit",
+        "Housing & Real Estate",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Housing & Real Estate"
+    },
+    "169": {
+      "chunk_id": 169,
+      "themes": [
+        "Interest Rates & Credit",
+        "Banking Capital & Liquidity"
+      ],
+      "primary_theme": "Banking Capital & Liquidity"
+    },
+    "170": {
+      "chunk_id": 170,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ],
+      "primary_theme": "Inflation & Prices"
+    },
+    "171": {
+      "chunk_id": 171,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "172": {
+      "chunk_id": 172,
+      "themes": [
+        "Housing & Real Estate",
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "173": {
+      "chunk_id": 173,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "174": {
+      "chunk_id": 174,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "175": {
+      "chunk_id": 175,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "176": {
+      "chunk_id": 176,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "177": {
+      "chunk_id": 177,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "178": {
+      "chunk_id": 178,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "179": {
+      "chunk_id": 179,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "180": {
+      "chunk_id": 180,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "181": {
+      "chunk_id": 181,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "182": {
+      "chunk_id": 182,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "183": {
+      "chunk_id": 183,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "184": {
+      "chunk_id": 184,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Banking Capital & Liquidity"
+    },
+    "185": {
+      "chunk_id": 185,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "186": {
+      "chunk_id": 186,
+      "themes": [
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Sovereign Debt"
+    },
+    "187": {
+      "chunk_id": 187,
+      "themes": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ],
+      "primary_theme": "Interest Rates & Credit"
+    },
+    "188": {
+      "chunk_id": 188,
+      "themes": [
+        "Banking Capital & Liquidity",
+        "Labor Market Dynamics",
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Labor Market Dynamics"
+    },
+    "189": {
+      "chunk_id": 189,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "190": {
+      "chunk_id": 190,
+      "themes": [
+        "Systemic Financial Risk"
+      ],
+      "primary_theme": "Systemic Financial Risk"
+    },
+    "191": {
+      "chunk_id": 191,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "192": {
+      "chunk_id": 192,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "193": {
+      "chunk_id": 193,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "194": {
+      "chunk_id": 194,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "195": {
+      "chunk_id": 195,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "196": {
+      "chunk_id": 196,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "197": {
+      "chunk_id": 197,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "198": {
+      "chunk_id": 198,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "199": {
+      "chunk_id": 199,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "200": {
+      "chunk_id": 200,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "201": {
+      "chunk_id": 201,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "202": {
+      "chunk_id": 202,
+      "themes": [],
+      "primary_theme": "None"
+    },
+    "203": {
+      "chunk_id": 203,
+      "themes": [],
+      "primary_theme": "None"
+    }
+  }
+}

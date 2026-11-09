@@ -1,0 +1,183 @@
+{
+  "top_k": 4,
+  "embedding_model": "sentence-transformers/multi-qa-distilbert-cos-v1",
+  "index": "faiss.IndexFlatL2 (normalised vectors)",
+  "results": [
+    {
+      "id": "Q1",
+      "question": "What does the IMF recommend regarding capital buffers and macroprudential tools for residential real estate risks?",
+      "answerable": true,
+      "answer": "Regarding real estate risks, the IMF recommends tightening macroprudential policies and strengthening the framework by introducing borrower-based measures—specifically a debt service-to-income (DSTI) limit, ideally phased in gradually with an exempted loan quota. Additionally, the IMF recommends establishing a dedicated macroprudential committee (ideally chaired by the SNB) to address potential inaction bias and facilitate the design of new systemic risk measures. Regarding capital buffers, the IMF notes that the sectoral countercyclical capital buffer should be released as appropriate.",
+      "citations": [
+        "chunk 51 | p.23",
+        "chunk 66 | pp.30-41",
+        "chunk 113 | pp.58-59"
+      ],
+      "retrieved": [
+        "[chunk 51 | p.23]",
+        "[chunk 113 | pp.58-59]",
+        "[chunk 50 | p.23]",
+        "[chunk 66 | pp.30-41]"
+      ],
+      "cosines": [
+        0.6292,
+        0.4988,
+        0.4984,
+        0.4963
+      ],
+      "abstained": false,
+      "abstention_correct": true,
+      "triad": {
+        "context_relevance": 5,
+        "groundedness": 5,
+        "answer_relevance": 5,
+        "comment": "The answer accurately and completely synthesizes the IMF recommendations on capital buffers and macroprudential tools for real estate risks based directly on the provided context."
+      },
+      "closed_book_answer": "The IMF recommends maintaining adequate capital buffers, such as the sector-specific Countercyclical Capital Buffer (CCyB), to absorb potential housing market shocks. To address residential real estate risks, it consistently advises strengthening macroprudential tools by introducing legally binding lending limits—including Loan-to-Value (LTV), Debt-to-Income (DTI), and Debt-Service-to-Income (DSTI) caps—to complement or replace industry self-regulation.",
+      "closed_book_triad": {
+        "context_relevance": 5,
+        "groundedness": 2,
+        "answer_relevance": 5,
+        "comment": "The answer incorporates unsupported external details not found in the context, such as introducing Debt-to-Income (DTI) caps and making lending limits legally binding to replace industry self-regulation."
+      }
+    },
+    {
+      "id": "Q2",
+      "question": "What stress test scenario assumptions (e.g. GDP shock size, interest-rate path) were used in the FSAP bank stress tests?",
+      "answerable": false,
+      "answer": "DATA NOT FOUND",
+      "citations": [],
+      "retrieved": [
+        "[chunk 172 | pp.89-90]",
+        "[chunk 203 | p.105]",
+        "[chunk 56 | pp.25-26]",
+        "[chunk 128 | pp.65-66]"
+      ],
+      "cosines": [
+        0.6222,
+        0.484,
+        0.4637,
+        0.4534
+      ],
+      "abstained": true,
+      "abstention_correct": true,
+      "triad": {
+        "context_relevance": 2,
+        "groundedness": 5,
+        "answer_relevance": 5,
+        "comment": "The retrieved context does not contain the specific FSAP bank stress test scenario assumptions, making the 'DATA NOT FOUND' abstention fully accurate and relevant."
+      },
+      "closed_book_answer": "The IMF's 2026 Article IV report for Switzerland does not exist, as 2026 is in the future. In previous Swiss FSAP stress tests (such as 2019 and recent Article IV updates), adverse scenarios assumed a severe macro-financial shock, including a cumulative GDP contraction of around 4–5%, a sharp decline in real estate prices, severe asset price corrections, and volatile interest-rate paths to test capital and liquidity buffers.",
+      "closed_book_triad": {
+        "context_relevance": 2,
+        "groundedness": 1,
+        "answer_relevance": 2,
+        "comment": "The context does not contain details of the FSAP bank stress test scenario assumptions, and the model fabricated specific figures and scenarios from outside knowledge rather than stating the information was unavailable."
+      }
+    },
+    {
+      "id": "Q3",
+      "question": "How does the SNB define price stability, and what inflation path do staff project for 2026 and 2027?",
+      "answerable": true,
+      "answer": "DATA NOT FOUND",
+      "citations": [],
+      "retrieved": [
+        "[chunk 1 | pp.2-3]",
+        "[chunk 33 | pp.15-16]",
+        "[chunk 187 | p.97]",
+        "[chunk 12 | p.7]"
+      ],
+      "cosines": [
+        0.7318,
+        0.6657,
+        0.6633,
+        0.6617
+      ],
+      "abstained": true,
+      "abstention_correct": false,
+      "triad": {
+        "context_relevance": 3,
+        "groundedness": 5,
+        "answer_relevance": 2,
+        "comment": "While the context does not define the SNB's price stability range, it does contain staff inflation projections for 2026 and the medium term, so a full abstention omits available information."
+      },
+      "closed_book_answer": "The Swiss National Bank (SNB) defines price stability as an annual CPI inflation rate of less than 2% while avoiding deflation (a range of 0% to 2%). IMF staff project inflation to remain well within this target range for 2026 and 2027, stabilizing at around 1.0% to 1.2%, supported by well-anchored inflation expectations and moderate domestic cost pressures.",
+      "closed_book_triad": {
+        "context_relevance": 3,
+        "groundedness": 1,
+        "answer_relevance": 5,
+        "comment": "The answer hallucinates the numerical definition of price stability and fabricates the staff inflation projections (1.0% to 1.2%), neither of which is supported by the context."
+      }
+    },
+    {
+      "id": "Q4",
+      "question": "What US tariff rate on Swiss goods does the baseline assume, and what is the effective tariff rate?",
+      "answerable": true,
+      "answer": "DATA NOT FOUND",
+      "citations": [],
+      "retrieved": [
+        "[chunk 29 | pp.13-14]",
+        "[chunk 11 | pp.6-7]",
+        "[chunk 100 | pp.51-52]",
+        "[chunk 122 | p.63]"
+      ],
+      "cosines": [
+        0.6265,
+        0.565,
+        0.5607,
+        0.5555
+      ],
+      "abstained": true,
+      "abstention_correct": false,
+      "triad": {
+        "context_relevance": 4,
+        "groundedness": 3,
+        "answer_relevance": 2,
+        "comment": "The context explicitly states that US tariffs on Switzerland are assumed to be set at 12.5 percent in the baseline, so the abstention is unwarranted."
+      },
+      "closed_book_answer": "The IMF's baseline scenario assumes a statutory US universal tariff rate of 10% on Swiss goods. Due to trade composition, product exclusions, and existing trade weights, the corresponding effective tariff rate on Swiss exports is estimated at approximately 6.5%.",
+      "closed_book_triad": {
+        "context_relevance": 4,
+        "groundedness": 1,
+        "answer_relevance": 5,
+        "comment": "The answer fabricates both the 10 percent statutory tariff and the 6.5 percent effective tariff rate, directly contradicting the context which states baseline US tariffs on Switzerland are assumed at 12.5 percent."
+      }
+    },
+    {
+      "id": "Q5",
+      "question": "By how much would the TBTF proposal on foreign subsidiaries raise UBS's CET1 capital requirements?",
+      "answerable": true,
+      "answer": "The TBTF proposal requiring G-SIBs to fully deduct the book value of foreign subsidiaries from parent-company CET1 capital would raise UBS's CET1 capital requirements by US$20 billion.",
+      "citations": [
+        "chunk 55 | pp.24-25"
+      ],
+      "retrieved": [
+        "[chunk 55 | pp.24-25]",
+        "[chunk 5 | pp.4-5]",
+        "[chunk 85 | pp.45-46]",
+        "[chunk 57 | p.26]"
+      ],
+      "cosines": [
+        0.6337,
+        0.6124,
+        0.5574,
+        0.547
+      ],
+      "abstained": false,
+      "abstention_correct": true,
+      "triad": {
+        "context_relevance": 5,
+        "groundedness": 5,
+        "answer_relevance": 5,
+        "comment": "The context directly contains the required information, and the answer accurately and fully addresses the question based solely on the provided text."
+      },
+      "closed_book_answer": "According to estimates referenced in IMF reporting and by Swiss authorities, the Too Big To Fail (TBTF) proposal requiring full capital backing for foreign subsidiaries is estimated to increase UBS's CET1 capital requirements by approximately USD 15 billion to USD 25 billion (CHF 15–25 billion).",
+      "closed_book_triad": {
+        "context_relevance": 5,
+        "groundedness": 2,
+        "answer_relevance": 4,
+        "comment": "The context explicitly states the requirement would raise UBS's CET1 capital requirements by US$20 billion, whereas the answer introduces an ungrounded range of USD 15 billion to USD 25 billion."
+      }
+    }
+  ]
+}

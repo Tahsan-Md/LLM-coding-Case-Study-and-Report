@@ -1,0 +1,154 @@
+{
+  "judge_audit": {
+    "fields": {
+      "gdp_growth_forecast_pct": {
+        "verdict": "correct",
+        "expected_value": 0.8,
+        "comment": "Accurately extracted the staff narrative baseline projection of 0.8 percent for 2026 (adjusted for sporting events)."
+      },
+      "headline_inflation_rate_pct": {
+        "verdict": "correct",
+        "expected_value": 0.6,
+        "comment": "Matches the staff projection for average headline inflation in 2026."
+      },
+      "central_bank_policy_rate_pct": {
+        "verdict": "correct",
+        "expected_value": 0.0,
+        "comment": "Correctly identifies that the SNB policy rate has been set at zero percent since June 2025."
+      },
+      "non_performing_loan_ratio": {
+        "verdict": "correct",
+        "expected_value": 0.8,
+        "comment": "Accurately extracted non-performing loans as a percent of gross loans for 2025 from Table 6."
+      },
+      "unemployment_rate_pct": {
+        "verdict": "correct",
+        "expected_value": 3.0,
+        "comment": "Accurately reflects the latest reported actual unemployment rate of 3.0 percent in 2026:Q1."
+      },
+      "tier_1_capital_ratio": {
+        "verdict": "correct",
+        "expected_value": 20.2,
+        "comment": "Matches regulatory Tier 1 capital as a percent of risk-weighted assets for 2025 (20.2 percent) from Table 6."
+      }
+    },
+    "overall_score": 5
+  },
+  "review": [
+    {
+      "field": "gdp_growth_forecast_pct",
+      "extracted": 0.8,
+      "human_truth": 0.8,
+      "correct_vs_human": true,
+      "judge_verdict": "correct",
+      "judge_agrees_with_human": true,
+      "quote_verified": true,
+      "number_in_quote": true,
+      "page": 2,
+      "reference_period": "2026",
+      "alternatives_seen": "1.1 percent (without adjustments)"
+    },
+    {
+      "field": "headline_inflation_rate_pct",
+      "extracted": 0.6,
+      "human_truth": 0.6,
+      "correct_vs_human": true,
+      "judge_verdict": "correct",
+      "judge_agrees_with_human": true,
+      "quote_verified": true,
+      "number_in_quote": true,
+      "page": 3,
+      "reference_period": "2026",
+      "alternatives_seen": ""
+    },
+    {
+      "field": "central_bank_policy_rate_pct",
+      "extracted": 0.0,
+      "human_truth": 0.0,
+      "correct_vs_human": true,
+      "judge_verdict": "correct",
+      "judge_agrees_with_human": true,
+      "quote_verified": true,
+      "number_in_quote": true,
+      "page": 11,
+      "reference_period": "2026",
+      "alternatives_seen": ""
+    },
+    {
+      "field": "non_performing_loan_ratio",
+      "extracted": 0.8,
+      "human_truth": 0.8,
+      "correct_vs_human": true,
+      "judge_verdict": "correct",
+      "judge_agrees_with_human": true,
+      "quote_verified": true,
+      "number_in_quote": true,
+      "page": 45,
+      "reference_period": "2025",
+      "alternatives_seen": ""
+    },
+    {
+      "field": "unemployment_rate_pct",
+      "extracted": 3.0,
+      "human_truth": 3.0,
+      "correct_vs_human": true,
+      "judge_verdict": "correct",
+      "judge_agrees_with_human": true,
+      "quote_verified": false,
+      "number_in_quote": true,
+      "page": 11,
+      "reference_period": "2026:Q1",
+      "alternatives_seen": ""
+    },
+    {
+      "field": "tier_1_capital_ratio",
+      "extracted": 20.2,
+      "human_truth": 20.2,
+      "correct_vs_human": true,
+      "judge_verdict": "correct",
+      "judge_agrees_with_human": true,
+      "quote_verified": true,
+      "number_in_quote": true,
+      "page": 44,
+      "reference_period": "2025",
+      "alternatives_seen": ""
+    }
+  ],
+  "ground_truth": {
+    "country_name": {
+      "value": "Switzerland",
+      "page": 2,
+      "note": ""
+    },
+    "gdp_growth_forecast_pct": {
+      "value": 0.8,
+      "page": 14,
+      "note": "2026 staff projection adj. for sporting events (narrative ¶9). Non-adjusted = 1.1 (p.14; Table 1 p.40)."
+    },
+    "headline_inflation_rate_pct": {
+      "value": 0.6,
+      "page": 14,
+      "note": "2026 average CPI projection (¶9; Table 1). Latest actual June 2026 y/y = 0.5 (p.10); core = 0.3; 2025 avg = 0.2."
+    },
+    "central_bank_policy_rate_pct": {
+      "value": 0.0,
+      "page": 12,
+      "note": "SNB policy rate at zero since June 2025 (unchanged)."
+    },
+    "non_performing_loan_ratio": {
+      "value": 0.8,
+      "page": 45,
+      "note": "Table 6, 2025, NPL % of gross loans. Only in the table, not in prose. NPL net of provisions % Tier 1 = 3.6 (different metric)."
+    },
+    "unemployment_rate_pct": {
+      "value": 3.0,
+      "page": 11,
+      "note": "Latest actual (2026, ¶3). Table 1: 2025 = 2.8; 2026 projection = 3.1."
+    },
+    "tier_1_capital_ratio": {
+      "value": 20.2,
+      "page": 45,
+      "note": "Table 6, 2025, Tier 1 % RWA (text p.12: 'above 20 percent'). Tier 1 % assets = 7.6 is the leverage ratio."
+    }
+  }
+}

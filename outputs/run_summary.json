@@ -1,0 +1,57 @@
+{
+  "report": "IMF Country Report No. 26/233 — Switzerland 2026 Article IV",
+  "mode": "live",
+  "models": {
+    "generator": "gemini-3.5-flash",
+    "judge": "gemini-3.8-flash"
+  },
+  "chunks": {
+    "n_units": 1291,
+    "n_chunks": 204,
+    "tokens_min": 53,
+    "tokens_mean": 300.4,
+    "tokens_max": 350,
+    "chunk_tokens_target": 350,
+    "overlap_tokens_target": 50
+  },
+  "section_summaries_all_under_100_words": true,
+  "mean_judge_scores": {
+    "Completeness": {
+      "Executive summary": 5.0,
+      "Section summaries": 4.86,
+      "Strengths & vulnerabilities": 5.0
+    },
+    "Consistency": {
+      "Executive summary": 5.0,
+      "Section summaries": 4.95,
+      "Strengths & vulnerabilities": 5.0
+    },
+    "Constraint adherence": {
+      "Executive summary": 5.0,
+      "Section summaries": 4.32,
+      "Strengths & vulnerabilities": 5.0
+    },
+    "Factual alignment": {
+      "Executive summary": 5.0,
+      "Section summaries": 4.91,
+      "Strengths & vulnerabilities": 5.0
+    }
+  },
+  "json_accuracy_vs_human": 1.0,
+  "judge_human_agreement": 1.0,
+  "fallbacks": [],
+  "trend_cell_agreement": 1.0,
+  "rag_mean_triad": {
+    "Closed-book (no retrieval)": {
+      "context_relevance": 3.8,
+      "groundedness": 1.4,
+      "answer_relevance": 4.2
+    },
+    "RAG (grounded)": {
+      "context_relevance": 3.8,
+      "groundedness": 4.6,
+      "answer_relevance": 3.8
+    }
+  },
+  "abstention_correct_rate": 0.6
+}

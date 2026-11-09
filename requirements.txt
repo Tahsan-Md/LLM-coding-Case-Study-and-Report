@@ -1,0 +1,10 @@
+google-genai>=1.20
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+pypdf>=4.0
+jsonschema>=4.20
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+requests>=2.31

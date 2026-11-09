@@ -1,0 +1,1161 @@
+[
+  {
+    "section": "Press release & Executive Board assessment",
+    "pages": "2-5",
+    "summary": "The IMF Executive Board noted Swiss economic resilience, though growth is expected to moderate to 0.8 percent (1.1 percent without adjustments) in 2026 after reaching 1.5 percent (1.4 percent without adjustments) in 2025. Inflation is projected to pick up to 0.6 percent in 2026. IMF staff assess fiscal and monetary policies as cyclically appropriate but urge agility amid downside risks. Managing long-term spending pressures within the debt-brake framework and implementing Too-Big-To-Fail reforms are essential for stability. IMF staff welcomed the authorities' commitment to strengthening the TBTF framework.",
+    "words": 87,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "The IMF Executive Board noted Swiss economic resilience.",
+          "verdict": "supported",
+          "evidence": "Executive Board Assessment The Swiss economy has demonstrated resilience amid heightened global uncertainty."
+        },
+        {
+          "claim": "Growth is expected to moderate to 0.8 percent (1.1 percent without adjustments) in 2026.",
+          "verdict": "supported",
+          "evidence": "Growth (adjusted for sporting events) is expected to moderate to 0.8 percent (1.1 percent without adjustments) in 2026"
+        },
+        {
+          "claim": "Growth was 1.5 percent (1.4 percent without adjustments) in 2025.",
+          "verdict": "supported",
+          "evidence": "Growth (adjusted for sporting events) was strong at 1.5 percent (1.4 percent without adjustments) in 2025"
+        },
+        {
+          "claim": "Inflation is projected to pick up to 0.6 percent in 2026.",
+          "verdict": "supported",
+          "evidence": "Inflation is projected to pick up to 0.6 percent in 2026, driven by higher global inflation and energy prices"
+        },
+        {
+          "claim": "Fiscal and monetary policies are cyclically appropriate but require agility amid downside risks.",
+          "verdict": "supported",
+          "evidence": "Fiscal and monetary policies are cyclically appropriate but will need to remain nimble."
+        },
+        {
+          "claim": "Managing long-term spending pressures within the debt-brake framework and implementing TBTF reforms are essential for stability.",
+          "verdict": "supported",
+          "evidence": "Proposed Too-Big-To-Fail (TBTF) reforms are essential to maintaining financial stability. Rising medium- to long-term fiscal pressures... should be managed within the debt-brake framework"
+        },
+        {
+          "claim": "The authorities' commitment to strengthening the TBTF framework was welcomed.",
+          "verdict": "supported",
+          "evidence": "The authorities’ commitment to strengthening Switzerland’s TBTF framework is welcome; passage and implementation should proceed."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 5,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Key issues",
+    "pages": "7-7",
+    "summary": "As of August 4, 2026, Switzerland displays economic resilience, though downside external risks dominate. Growth will rise toward potential with subdued inflation. A 13th monthly pension payment drives modest fiscal expansion, requiring measures to maintain compliance with fiscal rules. The SNB has kept its policy rate at zero since June 2025; staff advise standing ready to employ negative interest rates and FXI if disinflation risks de-anchoring expectations. Furthermore, the authorities' TBTF agenda aligns with 2025 FSAP recommendations, while rising mortgage systemic risk demands strengthened macroprudential oversight.",
+    "words": 86,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "As of August 4, 2026, the Swiss economy displays resilience, though downside external risks dominate.",
+          "verdict": "supported",
+          "evidence": "Supported by high productivity and strong policy frameworks, the Swiss economy has been resilient... External risks dominate and leave the balance of risks firmly on the downside."
+        },
+        {
+          "claim": "Swiss growth will rise toward potential while inflation remains subdued.",
+          "verdict": "supported",
+          "evidence": "Swiss growth will rise toward potential, but inflation will remain subdued."
+        },
+        {
+          "claim": "A 13th monthly pension payment drives modest fiscal expansion, requiring measures to maintain compliance with fiscal rules.",
+          "verdict": "supported",
+          "evidence": "The 13th monthly pension payment will result in a modest fiscal expansion... will require revenue and/or expenditure measures to remain compliant with national and local fiscal rules."
+        },
+        {
+          "claim": "The SNB has kept its policy rate at zero since June 2025.",
+          "verdict": "supported",
+          "evidence": "The SNB has kept its policy rate at zero since June 2025"
+        },
+        {
+          "claim": "Staff advise standing ready to employ negative interest rates and FXI if disinflation risks de-anchoring expectations.",
+          "verdict": "supported",
+          "evidence": "the SNB should stand ready to use negative interest rates and, potentially under certain circumstances, FXI guided by IPF."
+        },
+        {
+          "claim": "The authorities' TBTF agenda aligns with 2025 FSAP recommendations.",
+          "verdict": "supported",
+          "evidence": "The authorities’ financial safety net improvements and Too-Big-to-Fail (TBTF) agenda are broadly in line with the 2025 FSAP recommendations."
+        },
+        {
+          "claim": "Rising systemic risk from mortgages necessitates macroprudential oversight.",
+          "verdict": "supported",
+          "evidence": "With systemic risk from mortgages continuing to rise, macroprudential oversight and toolkit improvements remain important."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Context",
+    "pages": "10-10",
+    "summary": "Switzerland’s strong frameworks and flexible economy weathered global volatility, supported by solid 2025 exports and resilience against the March 2026 energy price shock. The 2025 external position remained broadly in line with medium-term fundamentals and desirable policies. While inflation stays within the SNB’s tolerance band, monetary policy flexibility is limited after keeping the policy rate at zero for more than a year. Sustaining stability requires addressing Too-Big-to-Fail risks, supervising mortgage concentration and rising house prices, and managing medium-term fiscal pressures within the debt-brake framework.",
+    "words": 84,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "Switzerland's strong frameworks and flexible economy weathered global volatility.",
+          "verdict": "supported",
+          "evidence": "Switzerland’s strong policy frameworks and highly flexible economy have helped it weather current global volatility."
+        },
+        {
+          "claim": "In 2025, Swiss exports remained solid.",
+          "verdict": "supported",
+          "evidence": "In 2025, exports remained solid despite high and variable US tariffs and slow European trading partner growth."
+        },
+        {
+          "claim": "Switzerland demonstrated resilience against the March 2026 energy price shock.",
+          "verdict": "supported",
+          "evidence": "In 2026, the energy price shock from March has affected Switzerland less than its neighbors thanks to lower fossil fuel dependence."
+        },
+        {
+          "claim": "The 2025 external position was broadly in line with medium-term fundamentals and desirable policies.",
+          "verdict": "supported",
+          "evidence": "the 2025 external position remained broadly in line with the level implied by medium-term fundamentals and desirable policies."
+        },
+        {
+          "claim": "Inflation remains comfortably within the SNB's tolerance band.",
+          "verdict": "supported",
+          "evidence": "Inflation and inflation expectations remain comfortably within the SNB’s tolerance band."
+        },
+        {
+          "claim": "Monetary policy flexibility is limited after the policy rate was kept at zero for over a year.",
+          "verdict": "supported",
+          "evidence": "more than a year after the policy rate was lowered to zero, limiting monetary policy flexibility, responding to frequent external shocks is challenging."
+        },
+        {
+          "claim": "Sustaining stability requires addressing Too-Big-to-Fail risks.",
+          "verdict": "supported",
+          "evidence": "Addressing Too-Big-to-Fail (TBTF) risks and improving the supervisory framework would strengthen financial resilience."
+        },
+        {
+          "claim": "Mortgage lending concentration and rising house prices warrant supervisory vigilance.",
+          "verdict": "supported",
+          "evidence": "House prices continue to rise and lending remains concentrated in mortgages, pointing to the need for vigilance on systemic credit risk."
+        },
+        {
+          "claim": "Medium-term fiscal pressures must be addressed within the debt-brake framework.",
+          "verdict": "supported",
+          "evidence": "medium-term fiscal challenges from aging, climate, and rising defense needs will have to be addressed within the prudent but rigid debt-brake framework."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Economic developments since 2025",
+    "pages": "10-14",
+    "summary": "Following 1.5 percent growth in 2025, economic expansion slowed to 0.4 percent year-on-year in 2026:Q1, with June 2026 headline inflation rising to 0.5 percent. The policy stance remains mildly stimulative; the Swiss National Bank has kept the policy rate at zero since June 2025, while the general government overall surplus narrowed to 0.3 percent of GDP in 2025. The financial system remains resilient, featuring an end-2025 aggregate Tier 1 capital ratio above 20 percent. Swiss authorities are implementing key reforms, including strengthening FINMA crisis powers and signing the EU \"Bilaterals III\" package.",
+    "words": 93,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "Economic growth was 1.5 percent in 2025.",
+          "verdict": "supported",
+          "evidence": "Growth rose to 1.5 per cent in 2025 (adjusted for international sporting events of Swiss-based institutions)"
+        },
+        {
+          "claim": "Economic expansion slowed to 0.4 percent year-on-year in 2026:Q1.",
+          "verdict": "supported",
+          "evidence": "with growth falling to 0.4 percent yoy in 2026:Q1 amid subdued investment"
+        },
+        {
+          "claim": "June 2026 headline inflation rose to 0.5 percent.",
+          "verdict": "supported",
+          "evidence": "Higher energy prices pushed inflation to 0.5 percent in June 2026"
+        },
+        {
+          "claim": "The policy mix is mildly stimulative.",
+          "verdict": "supported",
+          "evidence": "The policy mix is mildly stimulative."
+        },
+        {
+          "claim": "The SNB has kept the policy rate at zero since June 2025.",
+          "verdict": "supported",
+          "evidence": "The policy rate has been set at zero since June 2025, well below levels in the US and euro area."
+        },
+        {
+          "claim": "The general government overall surplus narrowed to 0.3 percent of GDP in 2025.",
+          "verdict": "supported",
+          "evidence": "The general government overall surplus narrowed to 0.3 percent of GDP in 2025 from 0.4 percent in 2024."
+        },
+        {
+          "claim": "The financial system is resilient, with an aggregate Tier 1 capital ratio above 20 percent at end-2025.",
+          "verdict": "supported",
+          "evidence": "Last year’s FSAP found the financial system highly resilient... Among banks, the aggregate Tier 1 regulatory capital ratio is above 20 percent"
+        },
+        {
+          "claim": "Authorities are pursuing reforms including strengthening FINMA crisis powers and signing the EU 'Bilaterals III' package.",
+          "verdict": "supported",
+          "evidence": "alongside legislative proposals to strengthen FINMA’s crisis powers... Structural reforms progressed with the signing of the EU “Bilaterals III” package"
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Outlook and risks",
+    "pages": "14-16",
+    "summary": "IMF staff project adjusted real GDP growth at 0.8 percent in 2026 and 1.5 percent in 2027, with inflation averaging 0.6 percent in 2026 and 2027 under downside risks from geopolitical tensions and US tariffs up to 12.5 percent. The authorities broadly shared staff's assessment, noting SNB expectations that inflation will remain within its price stability range. Policy discussions emphasized that fiscal policy under the debt brake is cyclically appropriate, while authorities should expand their macroprudential toolkit and build resilience against systemic credit and TBTF risks.",
+    "words": 86,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff project adjusted real GDP growth at 0.8 percent in 2026 and 1.5 percent in 2027.",
+          "verdict": "supported",
+          "evidence": "Growth (adjusted for sporting events) in 2026 is projected at 0.8 percent... Adjusted growth should pick up to 1.5 percent in2027"
+        },
+        {
+          "claim": "Inflation is projected to average 0.6 percent in both 2026 and 2027.",
+          "verdict": "supported",
+          "evidence": "Average inflation is projected at 0.6 percent... inflation is expected to remain low, averaging 0.6 percent in 2027"
+        },
+        {
+          "claim": "Risks are tilted to the downside from geopolitical tensions and US tariffs up to 12.5 percent.",
+          "verdict": "supported",
+          "evidence": "Risks to the outlook are tilted to the downside... United States imposed tariffs of up to 12.5 percent on Swiss imports"
+        },
+        {
+          "claim": "The authorities broadly shared staff's assessment, noting SNB expects inflation to remain within its price stability range.",
+          "verdict": "supported",
+          "evidence": "The authorities broadly shared staff’s assessment... Inflation is expected to remain within the SNB’s range of price stability"
+        },
+        {
+          "claim": "Fiscal policy under the debt brake is cyclically appropriate.",
+          "verdict": "supported",
+          "evidence": "With only a small output gap, fiscal policy under the debt brake is cyclically appropriate"
+        },
+        {
+          "claim": "Authorities should expand their macroprudential toolkit and build resilience against systemic credit and TBTF risks.",
+          "verdict": "supported",
+          "evidence": "the authorities should continue to improve oversight, expand their macroprudential policy toolkit, and build resilience against high systemic credit and TBTF risks"
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Fiscal policy",
+    "pages": "16-20",
+    "summary": "In 2026, Switzerland's general government overall balance will shift to a deficit of 0.1 percent of GDP, while long-term aging and climate pressures could increase public debt by more than 56 percent of GDP by 2060. IMF staff recommend revenue-centered adjustments within the debt brake, estimating additional measures of 0.9 percent of GDP in 2032 to keep debt stable. The authorities emphasize Switzerland's strong fiscal position and debt brake credibility, agreeing on long-term spending pressures but expecting to handle budgetary commitments through proposed VAT increases or spending cuts.",
+    "words": 88,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "In 2026, the general government overall balance will shift to a deficit of 0.1 percent of GDP.",
+          "verdict": "supported",
+          "evidence": "However, the pension increase will shift the general government overall balance into a deficit of 0.1 percent of GDP"
+        },
+        {
+          "claim": "Long-term aging and climate pressures could increase public debt by more than 56 percent of GDP by 2060.",
+          "verdict": "supported",
+          "evidence": "rising spending on pensions and health care along with climate mitigation costs could increase public debt by more than 56 percent of GDP by 2060."
+        },
+        {
+          "claim": "IMF staff recommend revenue-centered adjustments within the debt brake.",
+          "verdict": "supported",
+          "evidence": "revenue measures should be at the center of a long-run sustainability strategy... fiscal adjustments to ensure long-term sustainability should be undertaken within the rule."
+        },
+        {
+          "claim": "Staff estimates additional measures of 0.9 percent of GDP in 2032 are needed to keep debt stable.",
+          "verdict": "supported",
+          "evidence": "staff analysis suggests that additional measures totaling 0.9 percent of GDP in 2032 and potentially higher over time will be needed to keep debt stable."
+        },
+        {
+          "claim": "The authorities emphasize Switzerland's strong fiscal position and debt brake credibility.",
+          "verdict": "supported",
+          "evidence": "The authorities emphasized Switzerland's strong fiscal position... stressed that the debt brake continues to provide a credible and flexible fiscal anchor."
+        },
+        {
+          "claim": "The authorities agree on long-term spending pressures and expect to handle budgetary commitments through proposed VAT increases or spending cuts.",
+          "verdict": "supported",
+          "evidence": "broadly agreeing with staff's assessment... felt these would be covered within the debt brake via proposed VAT increases or compensatory spending cuts."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 5,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Monetary policy",
+    "pages": "20-22",
+    "summary": "IMF staff view the current monetary stance as appropriate, estimating the real natural policy rate at -0.5 to 0.3 percent (IMF, 2025). Staff urge keeping inflation expectations anchored mid-range within the 0–2 percent price stability target, using negative interest rates—which hit -0.75 percent in 2015–2022—or complementary foreign exchange intervention, following 2026:Q1 FX purchases. Staff also welcome publishing discussion summaries since October 2025. However, the Swiss authorities consider that staff overestimate negative rate benefits while underestimating foreign exchange intervention, which they view as flexible beyond rate-bound scenarios.",
+    "words": 91,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff view the current monetary policy stance as appropriate.",
+          "verdict": "supported",
+          "evidence": "The current monetary policy stance is appropriate, but a volatile environment calls for keeping the door open"
+        },
+        {
+          "claim": "Staff estimate the natural policy rate at -0.5 to 0.3 percent in real terms.",
+          "verdict": "supported",
+          "evidence": "Staff estimates the natural policy rate in a range of -0.5 to 0.3 in real terms (IMF, 2025)."
+        },
+        {
+          "claim": "Staff advise keeping inflation expectations anchored near the middle of the 0–2 percent price stability range.",
+          "verdict": "supported",
+          "evidence": "The SNB should continue to maintain expectations around their current level near the middle of the PSR [0–2 percent]."
+        },
+        {
+          "claim": "Switzerland's policy rate was cut to -0.75 percent during the 2015–2022 NIRP experience.",
+          "verdict": "supported",
+          "evidence": "Switzerland’s 2015–2022 NIRP experience... Distortions grew as the policy rate was cut to -0.75 percent."
+        },
+        {
+          "claim": "The SNB undertook foreign exchange purchases during 2026:Q1.",
+          "verdict": "supported",
+          "evidence": "the SNB undertook FX purchases during 2026:Q1."
+        },
+        {
+          "claim": "The SNB began publishing summaries of monetary policy discussions in October 2025.",
+          "verdict": "supported",
+          "evidence": "the SNB began to publish a summary of its monetary policy discussions in October 2025."
+        },
+        {
+          "claim": "The authorities consider that staff overestimate negative rate benefits while underestimating foreign exchange intervention.",
+          "verdict": "supported",
+          "evidence": "staff overestimated the potential stimulus generated by negative interest rates... Analogously, they noted that staff underestimated the benefits and overestimated the cost of FXI"
+        },
+        {
+          "claim": "The authorities view FXI as a tool not confined to situations where rates reach the effective lower bound.",
+          "verdict": "supported",
+          "evidence": "saw FXI as a flexible and effective tool that is not confined to situations where the policy rate is at the effective lower bound."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 5,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Financial sector",
+    "pages": "23-26",
+    "summary": "IMF staff advise tightening macroprudential policy and creating a macroprudential committee, noting apartment prices are 15–40 percent overvalued and residential investment price growth reached 3.5 percent y/y in 2026:Q1. Staff also support Too-Big-To-Fail reforms requiring US$20 billion in CET1 capital for UBS's foreign subsidiaries. The authorities agree on fully backing foreign subsidiaries with CET1 capital and highlight the 2027 Extended Liquidity Facility, but deem current macroprudential settings appropriate and a dedicated macroprudential committee unnecessary.",
+    "words": 78,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff advise tightening macroprudential policy.",
+          "verdict": "supported",
+          "evidence": "In this context, macroprudential policies should be tightened to improve resilience."
+        },
+        {
+          "claim": "IMF staff advise creating a dedicated macroprudential committee.",
+          "verdict": "supported",
+          "evidence": "a dedicated macroprudential committee, ideally chaired by the SNB, would help address potential inaction bias"
+        },
+        {
+          "claim": "Apartment prices are estimated to be 15–40 percent above fundamental levels.",
+          "verdict": "supported",
+          "evidence": "Apartment prices are estimated at 15–40 percent above fundamental levels"
+        },
+        {
+          "claim": "Residential investment price growth reached 3.5 percent y/y in 2026:Q1.",
+          "verdict": "supported",
+          "evidence": "falling interest rates drove significant price increases in 2025 (3.5 percent y/y in 2026:Q1)."
+        },
+        {
+          "claim": "TBTF proposals require US$20 billion in CET1 capital for UBS's foreign subsidiaries.",
+          "verdict": "supported",
+          "evidence": "would raise UBS’s CET1 capital requirements by US$20 billion."
+        },
+        {
+          "claim": "Authorities agree on fully backing foreign subsidiaries with CET1 capital.",
+          "verdict": "supported",
+          "evidence": "The authorities agreed that G-SIBs should fully back their foreign subsidiaries with CET1 capital"
+        },
+        {
+          "claim": "The authorities highlighted the 2027 Extended Liquidity Facility.",
+          "verdict": "supported",
+          "evidence": "The authorities pointed to the forthcoming Extended Liquidity Facility (2027) as further reinforcing the safety net."
+        },
+        {
+          "claim": "The authorities deem current macroprudential settings appropriate and a dedicated committee unnecessary.",
+          "verdict": "supported",
+          "evidence": "felt that current macroprudential settings are appropriate... felt a macroprudential committee as suggested by staff was not necessary."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Structural policies",
+    "pages": "26-28",
+    "summary": "IMF staff advocate comprehensive pension, labor, and productivity reforms to address long-term fiscal pressures. Pillar 1 public pension deficits could re-emerge after 2030; reform options starting from 2031 include inflation-only indexation and raising the retirement age to 68 by 2060. Staff highlight individual taxation planned by 2032 to boost female labor supply, and leveraging hydro (around 60 percent) and nuclear power (around 30) under the September 2025 Acceleration Decree. The authorities cited political challenges to staff's Pillar 1 proposals but agreed on reducing early retirement incentives.",
+    "words": 86,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff advocate comprehensive pension, labor, and productivity reforms to alleviate long-term fiscal pressures.",
+          "verdict": "supported",
+          "evidence": "Structural reforms are key to alleviating long-term fiscal pressures and maintaining competitiveness. Ensuring the self-sustainability of the pension scheme... comprehensive pension and healthcare reforms are a top priority."
+        },
+        {
+          "claim": "Pillar 1 public pension deficits could re-emerge after 2030.",
+          "verdict": "supported",
+          "evidence": "structural deficits in Pillar 1 public pensions could re‑emerge after 2030."
+        },
+        {
+          "claim": "Reform options starting from 2031 include inflation-only indexation and raising the retirement age to 68 by 2060.",
+          "verdict": "supported",
+          "evidence": "Two reform options, s tarting from 2031 are considered. One is to switch pension beenfit indexation... Another is to gradually increase the retirement age to 68 by 2060 from 65"
+        },
+        {
+          "claim": "Individual taxation is planned by 2032 to boost female labor supply.",
+          "verdict": "supported",
+          "evidence": "The planned adoption of individual taxation by 2032 should boost female employment"
+        },
+        {
+          "claim": "Electricity generation relies mainly on hydro (around 60 percent) and nuclear power (around 30 percent).",
+          "verdict": "supported",
+          "evidence": "While electricity generation relies mainly on hydro (around 60 percent) and nuclear power (around 30)"
+        },
+        {
+          "claim": "Hydro and nuclear power are leveraged under the September 2025 Acceleration Decree.",
+          "verdict": "unsupported",
+          "evidence": "The Acceleration Decree adopted in September 2025 should reduce permitting delays for large-scale renewable energy and grid expansion projects."
+        },
+        {
+          "claim": "The authorities cited political challenges to staff's Pillar 1 pension proposals.",
+          "verdict": "supported",
+          "evidence": "they explained the political challenges posed by the staff’s proposals— particularly, raising the retirement age or modifying benefit indexation"
+        },
+        {
+          "claim": "The authorities agreed on reducing early retirement incentives.",
+          "verdict": "supported",
+          "evidence": "To prolong working lives, they saw scope to reduce incentives for early retirement associated with Pillars 1 and 2 pensions."
+        }
+      ],
+      "consistency": 4,
+      "completeness": 4,
+      "factual_alignment": 3,
+      "constraint_adherence": 5,
+      "overall": 4,
+      "major_issues": [
+        "Conflates the existing electricity generation mix (hydro and nuclear) with the September 2025 Acceleration Decree, which specifically targets permitting delays for renewable energy and grid expansion."
+      ]
+    }
+  },
+  {
+    "section": "Staff appraisal",
+    "pages": "29-31",
+    "summary": "IMF staff assesses Switzerland's economy as resilient, viewing the current monetary stance and modest fiscal expansion in 2026—where pension spending offsets OECD Pillar 2 revenue—as appropriate. Staff notes downside risks and long-term spending pressures. To enhance resilience, staff recommends revenue mobilization to preserve debt brake credibility, fully capitalizing G-SIB foreign subsidiaries with CET1 capital, adding borrower-based macroprudential measures, and expanding FINMA resources. Staff welcomes the authorities' commitment to strengthening the TBTF framework and recommends the next consultation on the regular 12-month cycle.",
+    "words": 84,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff assesses Switzerland's economy as resilient.",
+          "verdict": "supported",
+          "evidence": "The Swiss economy has demonstrated resilience amid heightened global uncertainty."
+        },
+        {
+          "claim": "Staff views the current monetary stance as appropriate.",
+          "verdict": "supported",
+          "evidence": "The current monetary policy stance is appropriate, and the SNB should remain prepared to adjust policy as conditions evolve."
+        },
+        {
+          "claim": "A modest fiscal expansion in 2026 is seen as appropriate.",
+          "verdict": "supported",
+          "evidence": "The modest fiscal expansion in 2026 is appropriate."
+        },
+        {
+          "claim": "Pension spending is expected to offset OECD Pillar 2 revenue in 2026.",
+          "verdict": "supported",
+          "evidence": "Higher pension spending is expected to more than offset additional revenues from OECD Pillar 2 implementation"
+        },
+        {
+          "claim": "Staff recommends revenue mobilization to preserve debt brake credibility amid spending pressures.",
+          "verdict": "supported",
+          "evidence": "Meeting these challenges while preserving Switzerland’s high-quality public services will require additional revenue mobilization"
+        },
+        {
+          "claim": "Staff recommends fully capitalizing G-SIB foreign subsidiaries with CET1 capital.",
+          "verdict": "supported",
+          "evidence": "The proposed requirement, consistent with FSAP recommendations, for G-SIBs to fully capitalize foreign subsidiaries with CET1 capital would materially strengthen resolvability"
+        },
+        {
+          "claim": "Staff recommends adding borrower-based macroprudential measures to the policy toolkit.",
+          "verdict": "supported",
+          "evidence": "underscore the case for further strengthening the macroprudential framework, including formalizing institutional arrangements and adding borrower-based measures to the available policy toolkit."
+        },
+        {
+          "claim": "Staff supports expanding FINMA resources and powers.",
+          "verdict": "supported",
+          "evidence": "Continued efforts to strengthen FINMA’s resources, powers, and enforcement capabilities are equally important"
+        },
+        {
+          "claim": "Staff welcomes the authorities' commitment to strengthening the TBTF framework.",
+          "verdict": "supported",
+          "evidence": "The authorities’ commitment to strengthening Switzerland’s TBTF framework is welcome"
+        },
+        {
+          "claim": "Staff recommends the next consultation take place on the regular 12-month cycle.",
+          "verdict": "supported",
+          "evidence": "It is recommended that the next consultation takes place on the regular 12-month cycle."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex I: Banking sector concentration",
+    "pages": "46-50",
+    "summary": "Swiss banking sector assets totaled 360 percent of GDP at end-2025, with concentration rising post-acquisition of Credit Suisse by UBS, which holds 37 percent of system assets. UBS’s domestic credit market share reached around one-quarter at end-2023. The SNB found no significant domestic credit decline, as domestically focused banks filled the gap. IMF staff analysis finds no clear evidence that increased concentration weakened monetary policy transmission. However, higher credit market concentration means that in future systemic distress, reallocating credit across the banking system would be more challenging.",
+    "words": 87,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "Swiss banking sector assets totaled 360 percent of GDP at end-2025.",
+          "verdict": "supported",
+          "evidence": "Sectoral assets totaled 360 percent of GDP at end-2025"
+        },
+        {
+          "claim": "UBS accounts for 37 percent of system assets.",
+          "verdict": "supported",
+          "evidence": "UBS, the only G-SIB domiciled in Switzerland... alone accounts for 37 percent of system assets."
+        },
+        {
+          "claim": "UBS's domestic credit market share reached around one-quarter at end-2023.",
+          "verdict": "supported",
+          "evidence": "UBS’s domestic credit market share almost doubled, to around one-quarter at end-2023, following the acquisition of CS"
+        },
+        {
+          "claim": "The SNB found no significant decline in domestic credit, as domestically focused banks filled the gap.",
+          "verdict": "supported",
+          "evidence": "the SNB found no significant decline in provision of domestic credit... the decline in lending by UBS and CS has been more than offset by domestically focused banks"
+        },
+        {
+          "claim": "Staff analysis finds no clear evidence that the increase in banking concentration weakened monetary policy transmission.",
+          "verdict": "supported",
+          "evidence": "Staff analysis finds no clear evidence that the post-acquisitionincrease in banking concentration has weakened monetary policy transmission."
+        },
+        {
+          "claim": "Higher credit market concentration means reallocating credit across the banking system during systemic distress would be more challenging.",
+          "verdict": "supported",
+          "evidence": "in the event of further systemic distress, reallocating an even larger credit portfolio across the banking system would be even more challenging."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 5,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex II: External sector assessment",
+    "pages": "51-51",
+    "summary": "IMF staff assess Switzerland’s 2025 external position as broadly in line with medium-term fundamentals and desirable policies. The current account surplus reached 7.1 percent of GDP in 2025 (projected to narrow to 6.8 percent in 2026), with a staff-adjusted gap of -0.1 percent of GDP, while the net international investment position stood at 111 percent of GDP. Staff emphasize that policies should maintain economic resilience and price stability, utilize fiscal space if downside risks materialize, address structural spending needs, and foster transparent trade policy frameworks.",
+    "words": 85,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff assess Switzerland's 2025 external position as broadly in line with medium-term fundamentals and desirable policies.",
+          "verdict": "supported",
+          "evidence": "The external position in 2025 was broadly in line with the level implied by medium-term fundamentals and desirable policies."
+        },
+        {
+          "claim": "The current account surplus reached 7.1 percent of GDP in 2025.",
+          "verdict": "supported",
+          "evidence": "The current account surplus, standing at 7.1 percent of GDP in 2025..."
+        },
+        {
+          "claim": "The current account surplus is projected to narrow to 6.8 percent of GDP in 2026.",
+          "verdict": "supported",
+          "evidence": "...is expected to narrow in 2026 to 6.8 percent of GDP as lower global demand and franc strength weaken exports."
+        },
+        {
+          "claim": "The staff-adjusted current account gap was -0.1 percent of GDP.",
+          "verdict": "supported",
+          "evidence": "leads to a gap of -0.1 percent of GDP (±0.7 percentage points)."
+        },
+        {
+          "claim": "The net international investment position stood at 111 percent of GDP in 2025.",
+          "verdict": "supported",
+          "evidence": "Switzerland is a major financial center with a large, positive NIIP of 111 percent of GDP... in 2025."
+        },
+        {
+          "claim": "Staff recommend maintaining resilience and price stability, using fiscal space if downside risks materialize, addressing structural spending needs, and fostering transparent trade policies.",
+          "verdict": "supported",
+          "evidence": "Policies should focus on ensuring economic resilience and addressing low inflation. Substantial fiscal policy space should be used to support growth if downside risks materialize."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 5,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex III: Competitiveness and resilience",
+    "pages": "52-55",
+    "summary": "IMF staff report that Swiss franc appreciation—with NEER up 3.6 percent and REER up 1 percent in May 2026 relative to the 2025 average—raises competitiveness questions. Nevertheless, high value-added exports cushion exchange rate shifts. Switzerland's real exchange rate elasticity of around 0.65 is below the 0.77 cross-country average, and export growth averaged -1.41% during 2006–2025 appreciation episodes versus 1.23% in other periods. Over 1980–2025, export responses were -0.413 to REER changes and 1.555 to foreign demand. Ultimately, IMF staff caution that persistent franc strength may weigh on profitability over time.",
+    "words": 94,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "Relative to the 2025 average, the Swiss NEER appreciated by 3.6 percent and REER by 1 percent in May 2026.",
+          "verdict": "supported",
+          "evidence": "Relative to 2025 average, the NEER in May 2026 has appreciated by 3.6 percent, and the REER by 1 percent."
+        },
+        {
+          "claim": "Switzerland's overall real exchange rate elasticity is around 0.65, below the cross-country average of 0.77.",
+          "verdict": "supported",
+          "evidence": "Switzerland’s overall real exchange rate elasticity is estimated at around 0.65, below the cross-country average of 0.77"
+        },
+        {
+          "claim": "During 2006–2025 large appreciation episodes, Swiss export growth was -1.41 percent versus 1.23 percent in other periods.",
+          "verdict": "supported",
+          "evidence": "Table III.2. Switzerland: Export Volume Growth: Large Appreciation Periods vs. Other Periods Appreciation Episodes -1.41% Other Episodes 1.23%"
+        },
+        {
+          "claim": "In 1980–2025 estimates, Swiss export responses were -0.413 to REER changes and 1.555 to foreign demand.",
+          "verdict": "supported",
+          "evidence": "Table III.3. Switzerland: Exchange Rate and Foreign Demand Responses of Goods Exports ΔREERₜ -0.413* ΔForeignDemandₜ 1.555**"
+        },
+        {
+          "claim": "Persistent franc strength may weigh on profitability and competitiveness over time.",
+          "verdict": "supported",
+          "evidence": "persistent franc strength may still weigh on profitability and competitiveness over time."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex IV: Risk assessment matrix",
+    "pages": "56-59",
+    "summary": "IMF staff assess risks over a 12 to 18 month horizon, classifying relative likelihoods as low (below 10 percent), medium (between 10 and 30 percent), or high (between 30 and 50 percent). Key high-likelihood risks with high or medium/high impact include persistent downward inflationary pressures, geopolitical tensions, protectionism, commodity price volatility, and disorderly AI corrections. Medium-likelihood risks encompass real estate corrections and G-SIB implementation. Staff's policy advice stresses flexible monetary policy—using negative policy rates and FXI to anchor expectations—strengthening supervisory and regulatory frameworks, and preserving trade engagement with partners like the EU.",
+    "words": 95,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff assess risks over a 12 to 18 month horizon.",
+          "verdict": "supported",
+          "evidence": "highlight risks that may materialize over a shorter horizon (between 12 to 18 months)"
+        },
+        {
+          "claim": "Risk likelihoods are categorized as low (below 10%), medium (10-30%), and high (30-50%).",
+          "verdict": "supported",
+          "evidence": "“low” is meant to indicate a probability below 10 percent, “medium” a probability between 10 and 30 percent, and “high” a probability between 30 and 50 percent"
+        },
+        {
+          "claim": "High-likelihood risks with high or medium/high impact include persistent downward inflationary pressures, geopolitical tensions, protectionism, commodity price volatility, and disorderly AI corrections.",
+          "verdict": "supported",
+          "evidence": "Persistent downward inflationary pressures. High High... Geopolitical Tensions... High Medium / High... Protectionism... High Medium / High... Commodity Price Volatility... High Medium / High... Disorderly AI Correction... High Medium / High"
+        },
+        {
+          "claim": "Medium-likelihood risks include residential real estate corrections and G-SIB implementation risks.",
+          "verdict": "supported",
+          "evidence": "Sharp correction in residential real estate markets. Medium High... G-SIB risks Although the merger is almost complete, implementation risks remain... Medium Medium"
+        },
+        {
+          "claim": "Staff's policy advice emphasizes flexible monetary policy using negative policy rates and FXI to anchor inflation expectations.",
+          "verdict": "supported",
+          "evidence": "The central bank should use all monetary policy tools available, including negative rates and FXI, to prevent the de-anchoring of inflation expectations."
+        },
+        {
+          "claim": "Policy recommendations include strengthening supervisory and regulatory frameworks and preserving trade engagement with partners such as the EU.",
+          "verdict": "supported",
+          "evidence": "Strengthen crisis management, supervisory and regulatory frameworks... Continued engagement with the EU, the U.S., and other partners is key"
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": [
+        "Output was wrapped in a JSON object wrapper instead of being delivered as raw plain prose."
+      ]
+    }
+  },
+  {
+    "section": "Annex V: Scenario analysis (QIPF model)",
+    "pages": "60-68",
+    "summary": "IMF staff scenario analysis using the Quantitative Integrated Policy Framework indicates that a severe global demand shock combined with safe-haven flows reduces Swiss GDP by 3.7 percent and inflation to about -2.6 percent, keeping policy rates at the effective lower bound of -1 percent for ten quarters. Staff conclude that effective macroeconomic stabilization requires a coordinated policy mix: foreign exchange intervention (modeled at 11 percent of GDP) and expansionary fiscal policy can complement monetary policy by mitigating deflationary appreciation, shortening effective lower bound duration, and preserving monetary space.",
+    "words": 88,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "A negative global demand shock combined with safe-haven flows reduces Swiss GDP by 3.7 percent and inflation to about -2.6 percent.",
+          "verdict": "supported",
+          "evidence": "output losses increase to 3.7 percent and inflation falls to about -2.6 percent due to franc appreciation."
+        },
+        {
+          "claim": "Under this shock combination, policy rates remain at the effective lower bound of -1 percent for ten quarters.",
+          "verdict": "supported",
+          "evidence": "the policy rate thus stays at the ELB of -1 percent for about ten quarters."
+        },
+        {
+          "claim": "Effective macroeconomic stabilization requires a coordinated policy mix.",
+          "verdict": "supported",
+          "evidence": "The scenario analysis underscores that effective macroeconomic stabilization requires a coordinated policy mix."
+        },
+        {
+          "claim": "Foreign exchange intervention is modeled at 11 percent of GDP.",
+          "verdict": "supported",
+          "evidence": "As in the other scenarios, we consider an increase in FXI of 11 percent of GDP."
+        },
+        {
+          "claim": "FX intervention and expansionary fiscal policy complement monetary policy by easing currency pressures and shortening the time spent at the ELB.",
+          "verdict": "supported",
+          "evidence": "foreign exchange intervention can complement negative interest rate policy by easing currency pressures... Fiscal policy can further support stabilization by shortening the period during which monetary policy remains constrained by the ELB."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex VI: Long-term fiscal pressures",
+    "pages": "69-75",
+    "summary": "Switzerland faces substantial long-term fiscal pressures from population aging, healthcare, and climate mitigation. With the old-age dependency ratio rising from 33 percent in 2025 to 46 percent in 2060, IMF staff estimates social protection spending will raise public debt by around 21 percent of GDP by 2060. Rising government healthcare spending (from 3.5 to 5.0 percent of GDP) could add roughly 27 percent of GDP to public debt, while 2050 net-zero climate policies could add 8–11 percent of GDP by 2060. Absent policy adjustments, these combined forces will add sustained fiscal pressure.",
+    "words": 93,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "The old-age dependency ratio is projected to rise from 33 percent in 2025 to 46 percent in 2060.",
+          "verdict": "supported",
+          "evidence": "pushing the old-age dependency ratio from 33 percent in 2025 to 46 percent in 2060"
+        },
+        {
+          "claim": "Social protection spending is projected to raise public debt by around 21 percent of GDP by 2060.",
+          "verdict": "supported",
+          "evidence": "Taken together these trends will raise public debt by around 21 percent of GDP by 2060."
+        },
+        {
+          "claim": "Government healthcare spending is projected to rise from 3.5 to 5.0 percent of GDP.",
+          "verdict": "supported",
+          "evidence": "Government health expenditure alone is projected to rise from 3.5 to 5.0 percent of GDP."
+        },
+        {
+          "claim": "Rising health spending could increase public debt by roughly 27 percent of GDP by 2060.",
+          "verdict": "supported",
+          "evidence": "Rising health spending could increase public debt by roughly 27 percent of GDP by 2060."
+        },
+        {
+          "claim": "Climate policies required to achieve net zero by 2050 could increase public debt by 8–11 percent of GDP by 2060.",
+          "verdict": "supported",
+          "evidence": "contributing to an increase in public debt of about 8–11 percent of GDP by 2060."
+        },
+        {
+          "claim": "Demographic and climate forces will create sustained fiscal pressures absent policy adjustments.",
+          "verdict": "supported",
+          "evidence": "Taken together, demographic and climate-related forces will add fiscal pressures absent further policy adjustments."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex VII: Debt sustainability analysis",
+    "pages": "76-81",
+    "summary": "IMF staff assess Switzerland's overall risk of sovereign stress as low and public debt as sustainable, with public debt projected to decline from 40 percent of GDP in 2025 to 37 percent of GDP in 2031. Medium-term risk is low, supported by the debt brake rule. However, staff rate long-term risk as moderate due to spending pressures from population aging and climate change. To address these pressures, staff highlight the importance of pension and health care reforms as well as revenue-enhancing measures.",
+    "words": 82,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff assess Switzerland's overall risk of sovereign stress as low and public debt as sustainable.",
+          "verdict": "supported",
+          "evidence": "Switzerland is at a low overall risk of sovereign stress and public debt is sustainable."
+        },
+        {
+          "claim": "Public debt is projected to decline from 40 percent of GDP in 2025 to 37 percent of GDP in 2031.",
+          "verdict": "supported",
+          "evidence": "Public debt is projected to decline to 37 percent of GDP in 2031, from 40 percent of GDP in 2025."
+        },
+        {
+          "claim": "Medium-term sovereign stress risk is assessed as low, supported by the debt brake rule.",
+          "verdict": "supported",
+          "evidence": "Medium-term risk is assessed to be low... The presence of fiscal rules underpins the falling public debt trend as higher spending is expected to be met by additional tax revenue"
+        },
+        {
+          "claim": "Long-term risk is rated as moderate due to spending pressures from population aging and climate change.",
+          "verdict": "supported",
+          "evidence": "Long-term risk is assessed to be moderate. Absent of additional pension and health care reforms, public debt is expected to rise notably in the long run due to rising expenditure pressures from population aging and climate change"
+        },
+        {
+          "claim": "Staff highlight the importance of pension and health care reforms as well as revenue-enhancing measures.",
+          "verdict": "supported",
+          "evidence": "highlighting the importance of pension and health care reforms as well as revenue-enhancing measures."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 5,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex VIII: Safe-haven flows",
+    "pages": "82-86",
+    "summary": "IMF staff observe that safe-haven demand into Switzerland primarily targets bank deposits due to its small US$150 billion debt market, compared to US$35 trillion in the US and US$9 trillion in Japan. Historically accommodated by SNB interventions—such as during the euro area debt crisis, where nonresidents accumulated CHF 132 billion in bank accounts—inflows and interventions declined in 2025. IMF staff warn this shift creates a new risk environment where safe-haven flows could heighten financial market volatility and expand domestic bank lending.",
+    "words": 86,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "Safe-haven demand for the Swiss franc is intermediated primarily via bank deposits rather than government debt.",
+          "verdict": "supported",
+          "evidence": "Instead, safe-haven demand for the franc has traditionally materialized in the form of increases in bank deposits."
+        },
+        {
+          "claim": "Switzerland's government debt market is US$150 billion, compared to US$35 trillion in the US and US$9 trillion in Japan.",
+          "verdict": "supported",
+          "evidence": "government debt markets (US$35 trillion outstanding in the US, and US$9 trillion in Japan). But Switzerland’s market (US$150 billion) is small"
+        },
+        {
+          "claim": "Safe-haven inflows were historically accommodated by SNB interventions.",
+          "verdict": "supported",
+          "evidence": "These inflows were partly accommodated by SNB interventions, which helped moderate exchange rate appreciation and domestic financial market volatility."
+        },
+        {
+          "claim": "During the euro area debt crisis, nonresidents accumulated CHF 132 billion in Swiss bank accounts.",
+          "verdict": "supported",
+          "evidence": "nonresidents accumulated CHF 132 billion via Swiss bank accounts during the euro area debt crisis"
+        },
+        {
+          "claim": "Safe-haven inflows and SNB interventions declined in 2025.",
+          "verdict": "supported",
+          "evidence": "The resulting smaller safe-haven inflows, along with more limited appreciation of the franc in trade-weighted terms, have limited SNB interventions."
+        },
+        {
+          "claim": "Reduced interventions create a new risk environment where safe-haven flows could increase financial market volatility and domestic bank lending.",
+          "verdict": "supported",
+          "evidence": "More limited interventions mean that safe-haven demand could trigger greater financial market volatility... boost bank lending in Switzerland"
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex IX: Effects of low inflation",
+    "pages": "87-89",
+    "summary": "IMF staff observe that under the 0-2 percent price stability range, annual Swiss inflation was below one percent around two-thirds of the time during January 2000–January 2026. This low-inflation environment compressed Swiss banks' net interest margins and profitability over 2009–2021, limiting capital buffer growth while raising mortgage demand and systemic housing risks. Additionally, IMF QIPF model simulations indicate monetary policy is less effective during adverse shocks when inflation is anchored near zero instead of one percent due to the -1 percent effective lower bound.",
+    "words": 86,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "Under the 0-2 percent price stability range, annual Swiss inflation was below one percent around two-thirds of the time during January 2000–January 2026.",
+          "verdict": "supported",
+          "evidence": "During January 2000–January 2026, annual inflation was below one percent around two-thirds of the time."
+        },
+        {
+          "claim": "The low-inflation environment compressed Swiss banks' net interest margins and profitability over 2009–2021.",
+          "verdict": "supported",
+          "evidence": "Low interest rates compress banks’ net interest margins and profitability, as experienced by Swiss banks over 2009–2021."
+        },
+        {
+          "claim": "Compressed profitability limited banks' capacity to build capital buffers through retained earnings.",
+          "verdict": "supported",
+          "evidence": "This lower profitability reduces the capacity of banks to build capital buffers through retained earnings, with implications for financial stability in the long term."
+        },
+        {
+          "claim": "Prolonged low rates raised mortgage demand and house prices, increasing systemic risks.",
+          "verdict": "supported",
+          "evidence": "Lower-for-longer interest rates, including NIRP, can support mortgage growth and house price appreciation, increasing systemic risks."
+        },
+        {
+          "claim": "IMF QIPF model simulations show monetary policy is less effective when inflation is anchored near zero instead of one percent due to the -1 percent effective lower bound.",
+          "verdict": "supported",
+          "evidence": "The simulations based on the IMF QIPF model show that when long-run inflation is anchored close to zero, instead of one, percent, policy responses are less effective... ELB of -1 percent"
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": [
+        "The summary was formatted inside a JSON wrapper instead of being provided strictly as plain prose."
+      ]
+    }
+  },
+  {
+    "section": "Annex X: Implementation of 2025 FSAP recommendations",
+    "pages": "90-96",
+    "summary": "According to Swiss authorities, implementation of the 2025 FSAP recommendations is advancing. Data collection expanded with insurance reporting as at 31 December 2024, while FINMA increased staff in 2025 and designated 3 IAIGs for resolution planning. Parliament adopted beneficial owner legislation on 26 September 2025. In February 2026, the Swiss National Bank detailed its Extended Liquidity Facility, targeting operation in 2027. However, core TBTF package measures, including a Public Liquidity Backstop and FINMA fining powers, are unlikely to enter force before 2028.",
+    "words": 82,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "The update on implementation of the 2025 FSAP recommendations is based on information from Swiss authorities.",
+          "verdict": "supported",
+          "evidence": "This table is based on information provided by the authorities."
+        },
+        {
+          "claim": "Data collection expanded with insurance reporting as at 31 December 2024.",
+          "verdict": "supported",
+          "evidence": "first data collection as at 31 December 2024) has significantly expanded the available data"
+        },
+        {
+          "claim": "FINMA increased staff in 2025.",
+          "verdict": "supported",
+          "evidence": "In the year 2025 FINMA has increased the number of staff substantially."
+        },
+        {
+          "claim": "FINMA designated 3 IAIGs as subject to resolution planning.",
+          "verdict": "supported",
+          "evidence": "FINMA designed 3 IAIGs as subject to Resolution Planning and reported them in the 2026 FSB Resolution Report"
+        },
+        {
+          "claim": "Parliament adopted the beneficial owners register legislation on 26 September 2025.",
+          "verdict": "supported",
+          "evidence": "Parliament adopted the law on the introduction of the Beneficial Owners (BO) register and the modification of the Anti-Money Laundering Act... on 26 September 2025."
+        },
+        {
+          "claim": "In February 2026, the Swiss National Bank detailed the Extended Liquidity Facility (ELF).",
+          "verdict": "supported",
+          "evidence": "In February 2026, the Swiss National Bank has set out in more detail the framework for its announced Extended Liquidity Facility (ELF)"
+        },
+        {
+          "claim": "The Extended Liquidity Facility is scheduled to go into operation in 2027.",
+          "verdict": "supported",
+          "evidence": "The ELF is scheduled to go into operation at the beginning of 2027."
+        },
+        {
+          "claim": "Most measures under the TBTF package are unlikely to enter into force before 2028.",
+          "verdict": "supported",
+          "evidence": "Most measures under the TBTF package are unlikely to come into force before 2028."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 5,
+      "overall": 5,
+      "major_issues": []
+    }
+  },
+  {
+    "section": "Annex XI: Previous Article IV recommendations",
+    "pages": "97-98",
+    "summary": "IMF staff recommended agile policies and structural reforms. Authorities broadly tailored policies, implementing about 60 percent of proposed spending cuts under Relief Package 27, with no extraordinary spending planned beyond 2027. The SNB maintained a zero policy rate since June 2025, published policy discussion summaries since October 2025, and revised inflation forecasts upward in March 2026. In 2025, the SNB set currency reserve provisions at CHF 12.7 billion, recorded CHF 26.3 billion net profit, and made net FX purchases of CHF 5.2 billion. Crucially, the SNB will introduce an Extended Liquidity Facility in 2027.",
+    "words": 94,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "IMF staff recommended agile policies and tackling structural issues.",
+          "verdict": "supported",
+          "evidence": "Policies should remain agile and data-dependent, responding to near-term challenges and take action to tackle longer-term, structural issues."
+        },
+        {
+          "claim": "Authorities implemented approximately 60 percent of proposed permanent spending cuts under Relief Package 27.",
+          "verdict": "supported",
+          "evidence": "While Relief Package 27 was approved, only about 60 percent of the proposed permanent spending cuts will be implemented."
+        },
+        {
+          "claim": "No extraordinary spending is planned beyond 2027.",
+          "verdict": "supported",
+          "evidence": "No additional extraordinary expenditure is envisaged beyond 2027."
+        },
+        {
+          "claim": "The SNB kept its policy rate at zero since June 2025.",
+          "verdict": "supported",
+          "evidence": "The SNB has kept its policy rate at zero since June 2025"
+        },
+        {
+          "claim": "The SNB began publishing summaries of monetary policy discussions in October 2025.",
+          "verdict": "supported",
+          "evidence": "Since October 2025, the SNB began to publish summaries of its monetary policy discussions"
+        },
+        {
+          "claim": "In March 2026, the SNB revised its conditional inflation forecast upward.",
+          "verdict": "supported",
+          "evidence": "In March 2026, the SNB revised its conditional inflation forecast upward, reflecting rising energy prices."
+        },
+        {
+          "claim": "In 2025, the SNB set provisions for currency reserves at CHF 12.7 billion.",
+          "verdict": "supported",
+          "evidence": "In 2025, the SNB set provisions for currency reserves at CHF 12.7 billion."
+        },
+        {
+          "claim": "The SNB recorded a net profit of CHF 26.3 billion in 2025.",
+          "verdict": "supported",
+          "evidence": "Together with the distribution reserve of CHF 12.9 billion, this resulted in a net profit of CHF 26.3 billion."
+        },
+        {
+          "claim": "SNB net FX purchases amounted to CHF 5.2 billion.",
+          "verdict": "supported",
+          "evidence": "FX interventions were limited, with net FX purchases amounting to CHF 5.2 billion."
+        },
+        {
+          "claim": "The SNB will introduce an Extended Liquidity Facility in 2027.",
+          "verdict": "supported",
+          "evidence": "The SNB will introduce a new Extended Liquidity Facility in 2027"
+        }
+      ],
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "constraint_adherence": 3,
+      "overall": 4,
+      "major_issues": [
+        "Output wrapped the summary in a JSON object instead of delivering plain prose as requested."
+      ]
+    }
+  },
+  {
+    "section": "Annex XII: Transnational aspects of corruption",
+    "pages": "99-99",
+    "summary": "Switzerland is strengthening its legal and supervisory frameworks to combat transnational corruption. In January 2026, Switzerland adopted the Anticorruption Strategy 2026-29, targeting foreign bribery and whistleblower protection. Supervision was active in 2024, with FINMA conducting 113 onsite bank inspections, 227 AML/CFT-related investigations, and 12 enforcement proceedings. Furthermore, in September 2025, Switzerland revised the Anti-Money Laundering Act, signed the AP III ECMC for international cooperation, and passed the Transparency of Legal Persons Act—coming into force in October 2026—establishing a federal register of beneficial owners.",
+    "words": 86,
+    "attempts": 1,
+    "validator_errors": [],
+    "judge": {
+      "claims": [
+        {
+          "claim": "Switzerland adopted the Anticorruption Strategy 2026-29 in January 2026 to target foreign bribery and protect whistleblowers.",
+          "verdict": "supported",
+          "evidence": "Switzerland adopted the Federal Council’s Anticorruption Strategy 2026-29 in January 2026, which entails a dedicated objective of detecting and punishing bribery... protect private-sector whistleblowers"
+        },
+        {
+          "claim": "In 2024, FINMA conducted 113 onsite bank inspections.",
+          "verdict": "supported",
+          "evidence": "In 2024, FINMA conducted 113 onsite inspections of banks"
+        },
+        {
+          "claim": "In 2024, FINMA conducted 227 AML/CFT-related investigations and initiated 12 enforcement proceedings.",
+          "verdict": "supported",
+          "evidence": "227 AML/CFT-related investigations and initiated 12 enforcement proceedings."
+        },
+        {
+          "claim": "Switzerland revised the Anti-Money Laundering Act in September 2025.",
+          "verdict": "supported",
+          "evidence": "In September 2025, Switzerland adopted a revision to the Anti-Money Laundering Act (AMLA)"
+        },
+        {
+          "claim": "Switzerland signed the AP III ECMC in September 2025.",
+          "verdict": "supported",
+          "evidence": "In September 2025, Switzerland signed the Third Additional Protocol to the European Convention on Mutual Assistance in Criminal Matters (AP III ECMC)"
+        },
+        {
+          "claim": "Switzerland passed the Transparency of Legal Persons Act in September 2025, entering into force in October 2026 to establish a federal register of beneficial owners.",
+          "verdict": "supported",
+          "evidence": "In September 2025, Switzerland passed the Transparency of Legal Persons Act (TLPA), which will come into force in October 2026... creates a federal register of beneficial owners"
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "constraint_adherence": 4,
+      "overall": 5,
+      "major_issues": []
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "cleaning": {
+    "boilerplate_lines_removed": 300,
+    "chart_residue_lines_removed": 855,
+    "hyphen_joins": 30,
+    "pages": 105,
+    "chart_pages_excluded": 9,
+    "words_raw": 39399,
+    "words_clean": 37349,
+    "duplicate_pages_dropped": 0
+  },
+  "chunking": {
+    "n_units": 1291,
+    "n_chunks": 204,
+    "tokens_min": 53,
+    "tokens_mean": 300.4,
+    "tokens_max": 350,
+    "chunk_tokens_target": 350,
+    "overlap_tokens_target": 50
+  },
+  "chart_pages": [
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    72
+  ],
+  "duplicate_pages": []
+}

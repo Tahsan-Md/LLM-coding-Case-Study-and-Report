@@ -1,0 +1,139 @@
+{
+  "executive_summary": {
+    "bullets": [
+      {
+        "point": "Banking sector buffers: IMF staff find the banking system sound, with an aggregate Tier 1 regulatory capital ratio above 20 percent and a liquidity coverage ratio of 175 percent at end-2025, well above regulatory minima.",
+        "pages": [
+          4,
+          12
+        ]
+      },
+      {
+        "point": "Too-big-to-fail reforms: Staff urge implementing TBTF reforms requiring G-SIBs to fully cover foreign subsidiaries with CET1 capital—adding US$20 billion for UBS. Authorities agree foreign subsidiaries should be fully backed with CET1 capital.",
+        "pages": [
+          4,
+          19,
+          24,
+          25,
+          29
+        ]
+      },
+      {
+        "point": "Real estate vulnerabilities: Staff urge adding DSTI limits as apartment prices exceed fundamentals by 15–40 percent. Authorities consider current settings appropriate, though staff note property-related loans comprise 86 percent of bank lending.",
+        "pages": [
+          5,
+          12,
+          23,
+          25,
+          29,
+          30
+        ]
+      },
+      {
+        "point": "Liquidity and nonbank supervision: The SNB will launch an Extended Liquidity Facility in 2027, while staff recommend a public liquidity backstop. Nonbank risks remain contained, though insurers hold 37 percent of assets in real estate.",
+        "pages": [
+          4,
+          5,
+          24,
+          25,
+          30
+        ]
+      },
+      {
+        "point": "External downside risks: High-likelihood geopolitical tensions and potential US tariffs up to 12.5 percent carry medium/high impact. Under a severe scenario, GDP growth falls by 0.9 percentage points over two years; staff advise letting automatic stabilizers operate.",
+        "pages": [
+          3,
+          14,
+          15,
+          56
+        ]
+      },
+      {
+        "point": "Disinflationary risk response: Headline inflation reached 0.5 percent in June 2026. Facing high-likelihood disinflation risks (high impact), staff advocate readying negative rates and FX intervention. Authorities view FX interventions as flexible standalone tools to manage safe-haven flows.",
+        "pages": [
+          2,
+          4,
+          15,
+          20,
+          21,
+          22,
+          58,
+          63
+        ]
+      },
+      {
+        "point": "Long-term fiscal pressures: Public debt reaches 39.4 percent of GDP in 2026. Demographics and climate could add 56 percent of GDP to debt by 2060. Staff advise revenue measures including VAT increases; authorities commit to debt-brake compliance.",
+        "pages": [
+          3,
+          4,
+          6,
+          17,
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  "judge": {
+    "claims": [
+      {
+        "claim": "The aggregate Tier 1 regulatory capital ratio is above 20 percent and the liquidity coverage ratio is 175 percent at end-2025.",
+        "verdict": "supported",
+        "evidence": "aggregate Tier 1 regulatory capital ratio is above 20 percent and the liquidity coverage ratio (LCR) is at 175 percent at end-2025"
+      },
+      {
+        "claim": "The requirement that G-SIBs fully deduct foreign subsidiaries from CET1 capital would raise UBS's requirements by US$20 billion.",
+        "verdict": "supported",
+        "evidence": "As the only Swiss G-SIB, this proposal would raise UBS’s CET1 capital requirements by US$20 billion."
+      },
+      {
+        "claim": "Authorities agree that G-SIBs should fully back foreign subsidiaries with CET1 capital.",
+        "verdict": "supported",
+        "evidence": "The authorities agreed that G-SIBs should fully back their foreign subsidiaries with CET1 capital"
+      },
+      {
+        "claim": "Apartment prices are estimated to be 15–40 percent above fundamental levels.",
+        "verdict": "supported",
+        "evidence": "Apartment prices are estimated at 15–40 percent above fundamental levels"
+      },
+      {
+        "claim": "Property-related loans account for 86 percent of bank lending.",
+        "verdict": "supported",
+        "evidence": "Property-related loans... account for 86 percent of bank lending"
+      },
+      {
+        "claim": "The SNB will launch an Extended Liquidity Facility for banks in 2027.",
+        "verdict": "supported",
+        "evidence": "The SNB will open a new Extended Liquidity Facility (ELF) for banks in 2027"
+      },
+      {
+        "claim": "Life insurers hold 37 percent of assets in real estate.",
+        "verdict": "supported",
+        "evidence": "Around 25 percent of pension fund assets and 37 percent of life insurer assets are in real estate."
+      },
+      {
+        "claim": "In a severe global scenario, Swiss real GDP is reduced by 0.9 percentage points over two years relative to baseline.",
+        "verdict": "supported",
+        "evidence": "In a more severe scenario, elevated commodity prices and tighter financial conditions could reduce real GDP by 0.9 ppt. over a two-year period"
+      },
+      {
+        "claim": "Demographics and climate-related expenditures could increase public debt by 56 percent of GDP by 2060.",
+        "verdict": "supported",
+        "evidence": "rising spending on pensions and health care along with climate mitigation costs could increase public debt by more than 56 percent of GDP by 2060."
+      },
+      {
+        "claim": "Public debt is projected at 39.4 percent of GDP in 2026.",
+        "verdict": "supported",
+        "evidence": "Gross debt... 2026: 39.4"
+      }
+    ],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "constraint_adherence": 5,
+    "overall": 5,
+    "major_issues": []
+  },
+  "attempts": 1,
+  "validator_errors": []
+}

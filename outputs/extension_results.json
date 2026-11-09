@@ -1,0 +1,74 @@
+{
+  "runs": [
+    {
+      "variant": "Strict system_instruction + schema",
+      "run": 0,
+      "schema_valid": true,
+      "latency_s": 12.812,
+      "accuracy": 1.0,
+      "judge_score": 5
+    },
+    {
+      "variant": "Generic user prompt",
+      "run": 0,
+      "schema_valid": true,
+      "json_parsed": true,
+      "latency_s": 6.438,
+      "accuracy": 1.0,
+      "judge_score": 5
+    },
+    {
+      "variant": "Strict system_instruction + schema",
+      "run": 1,
+      "schema_valid": true,
+      "latency_s": 12.918,
+      "accuracy": 1.0,
+      "judge_score": 5
+    },
+    {
+      "variant": "Generic user prompt",
+      "run": 1,
+      "schema_valid": true,
+      "json_parsed": true,
+      "latency_s": 5.512,
+      "accuracy": 1.0,
+      "judge_score": 5
+    },
+    {
+      "variant": "Strict system_instruction + schema",
+      "run": 2,
+      "schema_valid": true,
+      "latency_s": 11.637,
+      "accuracy": 1.0,
+      "judge_score": 5
+    },
+    {
+      "variant": "Generic user prompt",
+      "run": 2,
+      "schema_valid": true,
+      "json_parsed": true,
+      "latency_s": 6.46,
+      "accuracy": 0.8333333333333334,
+      "judge_score": 4
+    }
+  ],
+  "summary": [
+    {
+      "variant": "Generic user prompt",
+      "schema_compliance": 1.0,
+      "latency_mean_s": 6.137,
+      "latency_sd_s": 0.541,
+      "accuracy": 0.944,
+      "judge_score": 4.667
+    },
+    {
+      "variant": "Strict system_instruction + schema",
+      "schema_compliance": 1.0,
+      "latency_mean_s": 12.456,
+      "latency_sd_s": 0.711,
+      "accuracy": 1.0,
+      "judge_score": 5.0
+    }
+  ],
+  "note": "latency for cached runs is the latency recorded during the original live call"
+}
