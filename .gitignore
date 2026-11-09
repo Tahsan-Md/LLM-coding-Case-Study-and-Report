@@ -1,0 +1,9 @@
+# IMF PDFs are marked "Not for Redistribution" - the notebook downloads the report instead
+data/*.pdf
+# keep the written report private until the course is finished (assignment rule)
+report/
+*.docx
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.env
